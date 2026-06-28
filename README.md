@@ -1,57 +1,109 @@
-# RWA Portfolio Tracker — Next.js
+# RWA Portfolio Tracker
 
-Converted from the original Vite vanilla-JS implementation.
+A modern Next.js dashboard for tracking tokenized real-world asset (RWA) holdings across multiple wallets and chains. The app aggregates wallet balances, displays portfolio value and performance, and surfaces allocation, chain distribution, protocol summaries, and live pricing data for a curated set of on-chain assets.
 
-## Stack
+## What this project does
 
-- **Next.js 14** (App Router)
-- **React 18** (Client Components where interactivity is needed)
-- Google Fonts loaded via `<link>` in `app/layout.js`
+- Tracks wallet balances for supported EVM and Solana addresses
+- Aggregates holdings into a single portfolio view
+- Shows portfolio value, 24h change, allocation breakdown, and chain distribution
+- Surfaces live price and market data for supported RWA-related assets
+- Persists tracked wallets in browser storage for a personalized experience
+- Includes automated scripts for syncing asset manifests and price data
 
-## Getting Started
+## Tech stack
+
+- Next.js 16 with the App Router
+- React 18
+- CSS modules/styles in the global stylesheet
+- Viem for EVM chain interactions
+- REST-style API routes for wallet balance and cron-driven price updates
+
+## Features
+
+- Multi-wallet portfolio tracking
+- Live balance fetching from Alchemy, Helius, and viem-backed providers
+- Tokenized asset manifests stored under the data directory
+- Price refresh endpoints for Uniswap, USYC, Centrifuge, and ONDO-related ticker data
+- Local wallet management with add/remove flows
+
+## Project structure
+
+```text
+app/                # Next.js app routes and API endpoints
+components/         # Reusable UI components for the dashboard
+lib/                # Portfolio aggregation, wallet helpers, chain providers, price logic
+data/               # Asset manifests and static data
+public/             # Static assets
+scripts/            # One-off sync and maintenance scripts
+```
+
+## Prerequisites
+
+- Node.js 18+ recommended
+- npm or pnpm
+
+## Getting started
+
+1. Install dependencies:
 
 ```bash
 npm install
+```
+
+2. Create a local environment file if you plan to use live wallet or price providers:
+
+```bash
+cp .env.example .env.local
+```
+
+3. Start the development server:
+
+```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+4. Open http://localhost:3000 in your browser.
 
-## Project Structure
+## Environment variables
 
+The app can run with default seeded data, but live wallet balance and price updates require API keys.
+
+Required or commonly used variables:
+
+- `ALCHEMY_API_KEY` — used for Ethereum and EVM account balance lookups
+- `HELIUS_API_KEY` — used for Solana wallet balance lookups
+- `UNISWAP_API_KEY` — used for Uniswap-backed price lookups
+- `UNISWAP_SWAPPER_ADDRESS` — optional swapper address used by some price scripts
+- `CRON_SECRET` — optional shared secret for protecting cron endpoints
+
+If you do not provide these variables, the UI may still load with seeded or cached data, but live data refreshes may be limited.
+
+## Available scripts
+
+```bash
+npm run dev          # Start the Next.js development server
+npm run build        # Create a production build
+npm run start        # Start the production server
+npm run sync:ondo    # Sync ONDO asset manifests
+npm run sync:backed  # Sync backed assets data
+npm run migrate:hourly  # Migrate hourly price history
+npm run jupiter:backed  # Populate Jupiter-backed price data
+npm run uniswap:gold    # Sync Uniswap gold price data
+npm run sync:usyc        # Sync USYC stats
 ```
-├── app/
-│   ├── layout.js          # Root layout — fonts, metadata
-│   ├── page.js            # Main page — owns wallet + drawer state
-│   └── globals.css        # All styles (ported from style.css)
-├── components/
-│   ├── Header.jsx         # Logo, chain pills, wallets button
-│   ├── Ticker.jsx         # Scrolling price ticker
-│   ├── KpiStrip.jsx       # 4-cell KPI strip with count-up animation
-│   ├── AllocationPanel.jsx # SVG donut chart
-│   ├── ChainPanel.jsx     # Chain distribution bars
-│   ├── ActivityPanel.jsx  # Recent activity feed
-│   ├── HoldingsTable.jsx  # Filterable holdings table
-│   ├── ProtocolCards.jsx  # Protocol summary grid
-│   ├── YieldStrip.jsx     # APY yield strip
-│   ├── AppFooter.jsx      # Footer with live clock
-│   └── WalletDrawer.jsx   # Slide-in wallet manager drawer
-├── lib/
-│   ├── data.js            # All static data (tickers, holdings, etc.)
-│   └── wallets.js         # Wallet helpers, CHAINS, add/remove logic
-├── public/
-│   └── favicon.svg
-└── jsconfig.json          # Path alias: @/ → project root
-```
 
-## Migration Notes
+## API and data flow
 
-| Vite / vanilla JS | Next.js / React |
-|---|---|
-| `innerHTML` DOM templating | JSX components |
-| `addEventListener` event delegation | `onClick` / `onChange` props |
-| `localStorage` singleton store | `useState` + `useEffect` hydration |
-| Count-up via `setInterval` + DOM refs | `useCountUp` hook with React state |
-| `setInterval` clock via DOM id | `useEffect` clock in `AppFooter` |
-| Single `style.css` | `app/globals.css` (unchanged) |
-| `vite.config.js` | `next.config.js` |
+- The main dashboard is rendered from the app entry page and uses client-side state to manage wallets and portfolio data.
+- Wallet balances are fetched through API routes under the app/api directory.
+- Price and market refresh logic is driven by cron-style endpoints and supporting scripts.
+- Asset manifests and protocol metadata live under the data directory and are used to shape the UI.
+
+## Deployment
+
+This app is well suited for deployment on Vercel or any Node.js-capable hosting provider. Make sure your environment variables are configured in the deployment environment before enabling live data features.
+
+## Notes
+
+This repository started as a Vite-based implementation and has since been migrated to a Next.js application structure with a more modular component and API architecture.
