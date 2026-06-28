@@ -1,0 +1,45 @@
+{
+  "lastUpdatedAt": "2026-06-03T06:31:48.350Z",
+  "networksSyncedAt": "2026-06-01T00:00:00.000Z",
+  "assets": [
+    {
+      "symbol": "syrupUSDC",
+      "ticker": "syrupUSDC",
+      "iconSrc": "https://coin-images.coingecko.com/coins/images/54658/large/syrupUSDC.png",
+      "assetName": "Syrup USDC",
+      "assetClass": "cash-equivalent",
+      "price": "1.165212",
+      "priceChangePct24h": "0",
+      "marketCap": null,
+      "supportedNetworks": [
+        {
+          "chainId": 1,
+          "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
+          "decimals": 6
+        }
+      ],
+      "hourlyPriceHistory": [],
+      "lastUniswapQuoteAt": "2026-06-03T06:31:48.350Z"
+    },
+    {
+      "symbol": "syrupUSDT",
+      "ticker": "syrupUSDT",
+      "iconSrc": "https://coin-images.coingecko.com/coins/images/69514/large/syrupUSDT.png",
+      "assetName": "Syrup USDT",
+      "assetClass": "cash-equivalent",
+      "price": "1.126674",
+      "priceChangePct24h": "0.00026627116522704895",
+      "marketCap": null,
+      "supportedNetworks": [
+        {
+          "chainId": 1,
+          "address": "0x356b8d89c1e1239cbbb9de4815c39a1474d5ba7d",
+          "decimals": 6
+        }
+      ],
+      "hourlyPriceHistory": [],
+      "lastUniswapQuoteAt": "2026-06-03T06:31:48.350Z"
+    }
+  ],
+  "uniswapPricesUpdatedAt": "2026-06-03T06:31:48.350Z"
+}

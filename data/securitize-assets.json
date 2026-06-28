@@ -1,0 +1,69 @@
+{
+  "lastUpdatedAt": "2026-06-01T00:00:00.000Z",
+  "networksSyncedAt": "2026-06-01T00:00:00.000Z",
+  "assets": [
+    {
+      "symbol": "BUIDL",
+      "ticker": "BUIDL",
+      "iconSrc": "https://coin-images.coingecko.com/coins/images/36291/large/blackrock.png",
+      "assetName": "BlackRock USD Institutional Digital Liquidity Fund",
+      "assetClass": "cash-equivalent",
+      "price": "1",
+      "priceChangePct24h": "0",
+      "marketCap": null,
+      "supportedNetworks": [
+        {
+          "chainId": 1,
+          "address": "0x7712c34205737192402172409a8f7ccefa8aa2aec",
+          "decimals": 6
+        },
+        {
+          "chainId": 900,
+          "address": "GyWgeqpy5GueU2YbkE8xqUeVEokCMMCEeUrfbtMw6phr",
+          "decimals": 6
+        }
+      ],
+      "hourlyPriceHistory": [],
+      "lastUniswapQuoteAt": null
+    },
+    {
+      "symbol": "VBILL",
+      "ticker": "VBILL",
+      "iconSrc": "https://coin-images.coingecko.com/coins/images/56023/large/vbill_200.png",
+      "assetName": "VanEck Treasury Fund",
+      "assetClass": "cash-equivalent",
+      "price": "1",
+      "priceChangePct24h": "0",
+      "marketCap": null,
+      "supportedNetworks": [
+        {
+          "chainId": 1,
+          "address": "0x2255718832bc9fd3be1caf75084f4803da14ff01",
+          "decimals": 6
+        }
+      ],
+      "hourlyPriceHistory": [],
+      "lastUniswapQuoteAt": null
+    },
+    {
+      "symbol": "HLSCOPE",
+      "ticker": "HLSCOPE",
+      "iconSrc": "https://coin-images.coingecko.com/coins/images/54810/large/HLSCOPE.png",
+      "assetName": "Hamilton Lane SCOPE Securitize Tokenized Feeder Fund LP",
+      "assetClass": "fixed-income",
+      "price": "1",
+      "priceChangePct24h": "0",
+      "marketCap": null,
+      "supportedNetworks": [
+        {
+          "chainId": 1,
+          "address": "0xda2ffa104356688e74d9340519b8c17f00d7752e",
+          "decimals": 6
+        }
+      ],
+      "hourlyPriceHistory": [],
+      "lastUniswapQuoteAt": null
+    }
+  ],
+  "uniswapPricesUpdatedAt": null
+}

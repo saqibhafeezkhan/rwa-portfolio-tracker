@@ -1,0 +1,69 @@
+{
+  "lastUpdatedAt": "2026-06-28T02:29:36.493Z",
+  "networksSyncedAt": "2026-06-01T00:00:00.000Z",
+  "priceUpdateCursor": 2,
+  "centrifugeApiCallsAt": [
+    "2026-06-28T02:29:36.493Z",
+    "2026-06-28T02:29:36.493Z"
+  ],
+  "assets": [
+    {
+      "symbol": "JTRSY",
+      "ticker": "JTRSY",
+      "iconSrc": "https://coin-images.coingecko.com/coins/images/70445/large/JTRSY.png",
+      "assetName": "Janus Henderson Anemoy Treasury Fund",
+      "assetClass": "cash-equivalent",
+      "price": "1.107605705687810000",
+      "priceChangePct24h": "0.2200703687642988",
+      "marketCap": null,
+      "supportedNetworks": [
+        {
+          "chainId": 1,
+          "address": "0x8c213ee79581ff4984583c6a801e5263418c4b86",
+          "decimals": 6
+        }
+      ],
+      "hourlyPriceHistory": [],
+      "lastCentrifugeQuoteAt": "2026-06-28T02:29:36.493Z"
+    },
+    {
+      "symbol": "JAAA",
+      "ticker": "JAAA",
+      "iconSrc": "https://coin-images.coingecko.com/coins/images/70446/large/jaaa.png",
+      "assetName": "Janus Henderson Anemoy AAA CLO Fund Token",
+      "assetClass": "fixed-income",
+      "price": "1.038693162221820000",
+      "priceChangePct24h": "0.2085350579807253",
+      "marketCap": null,
+      "supportedNetworks": [
+        {
+          "chainId": 1,
+          "address": "0x5a0f93d040de44e78f251b03c43be9cf317dcf64",
+          "decimals": 6
+        }
+      ],
+      "hourlyPriceHistory": [],
+      "lastCentrifugeQuoteAt": "2026-06-28T02:29:36.493Z"
+    },
+    {
+      "symbol": "ACRDX",
+      "ticker": "ACRDX",
+      "iconSrc": "https://coin-images.coingecko.com/coins/images/70454/large/acdrx.png",
+      "assetName": "Anemoy Tokenized Apollo Diversified Credit Fund Token",
+      "assetClass": "fixed-income",
+      "price": "1.016149911125794089",
+      "priceChangePct24h": "0",
+      "marketCap": null,
+      "supportedNetworks": [
+        {
+          "chainId": 1,
+          "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
+          "decimals": 18
+        }
+      ],
+      "hourlyPriceHistory": [],
+      "lastCentrifugeQuoteAt": "2026-06-03T06:31:48.361Z"
+    }
+  ],
+  "centrifugePricesUpdatedAt": "2026-06-28T02:29:36.493Z"
+}

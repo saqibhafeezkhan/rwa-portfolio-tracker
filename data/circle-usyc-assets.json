@@ -1,0 +1,36 @@
+{
+  "lastUpdatedAt": "2026-06-28T02:26:00.524Z",
+  "networksSyncedAt": "2026-05-17T00:00:00.000Z",
+  "assets": [
+    {
+      "coingeckoId": "hashnote-usyc",
+      "symbol": "USYC",
+      "ticker": "USYC",
+      "iconSrc": "https://coin-images.coingecko.com/coins/images/51054/large/Hashnote_SDYC_200x200.png?1730370965",
+      "assetName": "Circle USYC",
+      "assetClass": "cash-equivalent",
+      "price": "1.129251046084589618",
+      "priceChangePct24h": "0",
+      "marketCap": null,
+      "supportedNetworks": [
+        {
+          "chainId": 1,
+          "address": "0x136471a34f6ef19fe571effc1ca711fdbe8e49f2b",
+          "decimals": 6
+        },
+        {
+          "chainId": 900,
+          "address": "7LWanZteUKtvFjv4MHYgKXXdAuCQYFPJysL9pxxdRQGn",
+          "decimals": 6
+        }
+      ],
+      "hourlyPriceHistory": [],
+      "lastStatsAt": "2026-06-28T02:26:00.524Z"
+    }
+  ],
+  "statsLastUpdated": "2026-06-28T02:26:00.524Z",
+  "estimatedYield": "3.1541315699826287",
+  "grossYield": "3.5045906333140318",
+  "totalSupply": "2751811775.824764",
+  "totalAum": "3107486326.478006"
+}

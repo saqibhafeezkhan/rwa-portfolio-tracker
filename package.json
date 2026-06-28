@@ -1,0 +1,22 @@
+{
+  "name": "rwa-portfolio-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "sync:ondo": "node scripts/sync-ondo-assets.mjs",
+    "sync:backed": "node scripts/sync-backed-assets.mjs",
+    "migrate:hourly": "node scripts/migrate-hourly-history.mjs",
+    "jupiter:backed": "node scripts/fill-backed-jupiter-prices.mjs",
+    "uniswap:gold": "node scripts/sync-uniswap-gold-prices.mjs",
+    "sync:usyc": "node scripts/sync-usyc-stats.mjs"
+  },
+  "dependencies": {
+    "next": "^16.2.6",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "viem": "^2.48.11"
+  }
+}

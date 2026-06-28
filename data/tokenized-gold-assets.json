@@ -1,0 +1,45 @@
+{
+  "lastUpdatedAt": "2026-06-03T06:31:48.350Z",
+  "networksSyncedAt": "2026-05-11T00:00:00.000Z",
+  "assets": [
+    {
+      "symbol": "PAXG",
+      "ticker": "PAXG",
+      "iconSrc": "https://assets.coingecko.com/coins/images/9519/standard/paxgold.png",
+      "assetName": "Paxos Gold",
+      "assetClass": "commodities",
+      "price": "4447.782888",
+      "priceChangePct24h": "0.01896598780833058",
+      "marketCap": null,
+      "supportedNetworks": [
+        {
+          "chainId": 1,
+          "address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+          "decimals": 18
+        }
+      ],
+      "hourlyPriceHistory": [],
+      "lastUniswapQuoteAt": "2026-06-03T06:31:48.350Z"
+    },
+    {
+      "symbol": "XAUt",
+      "ticker": "XAUt",
+      "iconSrc": "https://assets.coingecko.com/coins/images/10481/standard/logo.png",
+      "assetName": "Tether Gold",
+      "assetClass": "commodities",
+      "price": "4431.356816",
+      "priceChangePct24h": "0.016996329125155113",
+      "marketCap": null,
+      "supportedNetworks": [
+        {
+          "chainId": 1,
+          "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+          "decimals": 6
+        }
+      ],
+      "hourlyPriceHistory": [],
+      "lastUniswapQuoteAt": "2026-06-03T06:31:48.350Z"
+    }
+  ],
+  "uniswapPricesUpdatedAt": "2026-06-03T06:31:48.350Z"
+}
