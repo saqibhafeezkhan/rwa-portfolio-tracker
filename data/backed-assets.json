@@ -9,7 +9,7 @@
       "assetName": "Franklin Responsibly Sourced Gold ETF xStock",
       "assetClass": "equities",
       "price": "60.69",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "-0.337730870712401055",
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -55,19 +55,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "60.69"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "60.69"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "60.69"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "60.69"
         }
       ]
@@ -78,8 +74,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/MOOx.png",
       "assetName": "VanEck Agribusiness ETF xStock",
       "assetClass": "equities",
-      "price": "81.16",
-      "priceChangePct24h": "0",
+      "price": "79.855",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -115,20 +111,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "81.16"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "79.925"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "81.16"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "79.88"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "81.16"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "81.16"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "79.875"
         }
       ]
     },
@@ -138,8 +130,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/XOPx.png",
       "assetName": "SPDR S&P Oil & Gas Exploration & Production ETF xStock",
       "assetClass": "equities",
-      "price": "174.13",
-      "priceChangePct24h": "0",
+      "price": "168.52",
+      "priceChangePct24h": null,
       "marketCap": "4079452090",
       "supportedNetworks": [
         {
@@ -175,20 +167,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "174.13"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "168.3995"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "174.13"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "168.395"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "174.13"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "174.13"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "168.475"
         }
       ]
     },
@@ -198,8 +186,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/VGKx.png",
       "assetName": "Vanguard FTSE Europe ETF xStock",
       "assetClass": "equities",
-      "price": "85.79",
-      "priceChangePct24h": "0",
+      "price": "84.9865",
+      "priceChangePct24h": null,
       "marketCap": "21799707871",
       "supportedNetworks": [
         {
@@ -235,20 +223,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "85.79"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "84.948"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "85.79"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "84.9885"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "85.79"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "85.79"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "84.989"
         }
       ]
     },
@@ -258,8 +242,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/ITAx.png",
       "assetName": "iShares U.S. Aerospace & Defense ETF xStock",
       "assetClass": "equities",
-      "price": "217.27",
-      "priceChangePct24h": "0",
+      "price": "68.8",
+      "priceChangePct24h": "0.591975443981582986",
       "marketCap": "503495983",
       "supportedNetworks": [
         {
@@ -290,20 +274,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "217.27"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "68.78"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "217.27"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "68.817"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "217.27"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "217.27"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "68.835"
         }
       ]
     },
@@ -313,8 +293,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/VXUSx.png",
       "assetName": "Vanguard Total International Stock ETF xStock",
       "assetClass": "equities",
-      "price": "83",
-      "priceChangePct24h": "0",
+      "price": "78.005",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -350,20 +330,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "83"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "77.95"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "83"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "78.015"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "83"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "83"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "78.019"
         }
       ]
     },
@@ -373,8 +349,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/SGOVx.png",
       "assetName": "iShares 0-3 Month Treasury Bond ETF xStock",
       "assetClass": "equities",
-      "price": "100.5501",
-      "priceChangePct24h": "0",
+      "price": "100.675",
+      "priceChangePct24h": "0.020247253941347043",
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -410,20 +386,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "100.5501"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "100.675"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "100.5501"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "100.675"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "100.5501"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "100.5501"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "100.675"
         }
       ]
     },
@@ -433,8 +405,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/VUGx.png",
       "assetName": "Vanguard Growth ETF xStock",
       "assetClass": "equities",
-      "price": "87.43",
-      "priceChangePct24h": "0",
+      "price": "79.135",
+      "priceChangePct24h": null,
       "marketCap": "21962139013",
       "supportedNetworks": [
         {
@@ -470,20 +442,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "87.43"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "79.076"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "87.43"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "79.155"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "87.43"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "87.43"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "79.149"
         }
       ]
     },
@@ -493,8 +461,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/SMHx.png",
       "assetName": "VanEck Semiconductor ETF xStock",
       "assetClass": "equities",
-      "price": "553.61",
-      "priceChangePct24h": "0",
+      "price": "420.48",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -530,20 +498,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "553.61"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "420.359"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "553.61"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "420.735"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "553.61"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "553.61"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "420.67"
         }
       ]
     },
@@ -553,8 +517,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/URAx.png",
       "assetName": "Global X Uranium ETF xStock",
       "assetClass": "equities",
-      "price": "49.93",
-      "priceChangePct24h": "0",
+      "price": "27.64",
+      "priceChangePct24h": "-0.083107497741644083",
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -590,20 +554,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "49.93"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "27.625"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "49.93"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "27.647"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "49.93"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "49.93"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "27.645"
         }
       ]
     },
@@ -613,8 +573,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/XLEx.png",
       "assetName": "Energy Select Sector SPDR Fund xStock",
       "assetClass": "equities",
-      "price": "59.44",
-      "priceChangePct24h": "0",
+      "price": "61.145",
+      "priceChangePct24h": null,
       "marketCap": "9659728072",
       "supportedNetworks": [
         {
@@ -650,20 +610,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "59.44"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "61.085"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "59.44"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "61.097"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "59.44"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "59.44"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "61.125"
         }
       ]
     },
@@ -673,8 +629,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/VCXx.png",
       "assetName": "Fundrise Innovation Fund, LLC xStock",
       "assetClass": "equities",
-      "price": "195.05",
-      "priceChangePct24h": "0",
+      "price": "16.73",
+      "priceChangePct24h": "0.977726035681886907",
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -710,20 +666,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "195.05"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "16.715"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "195.05"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "16.715"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "195.05"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "195.05"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "16.725"
         }
       ]
     },
@@ -733,8 +685,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/SNDKx.png",
       "assetName": "Sandisk Corporation xStock",
       "assetClass": "equities",
-      "price": "1380.9349",
-      "priceChangePct24h": "0",
+      "price": "73.159",
+      "priceChangePct24h": "-5.168718858187478719",
       "marketCap": "231366552513.72",
       "supportedNetworks": [
         {
@@ -770,20 +722,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "1380.9349"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "73.1535"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "1380.9349"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "73.22"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "1380.9349"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "1380.9349"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "73.2095"
         }
       ]
     },
@@ -793,8 +741,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/LITEx.png",
       "assetName": "Lumentum Holdings Inc. xStock",
       "assetClass": "equities",
-      "price": "954.53",
-      "priceChangePct24h": "0",
+      "price": "478.298",
+      "priceChangePct24h": "-1.916844152236318178",
       "marketCap": "70315640000",
       "supportedNetworks": [
         {
@@ -830,20 +778,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "954.53"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "475.94"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "954.53"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "477.17"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "954.53"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "954.53"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "477.715"
         }
       ]
     },
@@ -853,8 +797,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/SMRx.png",
       "assetName": "NuScale Power Corporation xStock",
       "assetClass": "equities",
-      "price": "11.2295",
-      "priceChangePct24h": "0",
+      "price": "3.315",
+      "priceChangePct24h": "-1.803703826844432623",
       "marketCap": "4343627601.75",
       "supportedNetworks": [
         {
@@ -890,20 +834,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "11.2295"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "3.305"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "11.2295"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "3.305"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "11.2295"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "11.2295"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "3.305"
         }
       ]
     },
@@ -913,8 +853,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/APLDx.png",
       "assetName": "Applied Digital Corporation xStock",
       "assetClass": "equities",
-      "price": "42.39",
-      "priceChangePct24h": "0",
+      "price": "12.455",
+      "priceChangePct24h": "1.280524286609534876",
       "marketCap": "11787993483.75",
       "supportedNetworks": [
         {
@@ -950,20 +890,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "42.39"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "12.3795"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "42.39"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "12.4295"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "42.39"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "42.39"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "12.435"
         }
       ]
     },
@@ -973,8 +909,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/PWRx.png",
       "assetName": "Quanta Services, Inc. xStock",
       "assetClass": "equities",
-      "price": "767.99",
-      "priceChangePct24h": "0",
+      "price": "572.65",
+      "priceChangePct24h": "-2.887223653872236539",
       "marketCap": "111794811005",
       "supportedNetworks": [
         {
@@ -1010,20 +946,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "767.99"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "571.53"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "767.99"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "572.22"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "767.99"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "767.99"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "572.8"
         }
       ]
     },
@@ -1033,8 +965,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/TERx.png",
       "assetName": "Teradyne, Inc. xStock",
       "assetClass": "equities",
-      "price": "335.99",
-      "priceChangePct24h": "0",
+      "price": "212.385",
+      "priceChangePct24h": "-1.357613330271388346",
       "marketCap": "56319173622.74",
       "supportedNetworks": [
         {
@@ -1070,20 +1002,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "335.99"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "212.395"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "335.99"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "212.31"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "335.99"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "335.99"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "212.245"
         }
       ]
     },
@@ -1093,8 +1021,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/ETNx.png",
       "assetName": "Eaton Corporation plc xStock",
       "assetClass": "equities",
-      "price": "398.6",
-      "priceChangePct24h": "0",
+      "price": "317.76",
+      "priceChangePct24h": "-0.796850098434423924",
       "marketCap": "155906333000",
       "supportedNetworks": [
         {
@@ -1130,20 +1058,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "398.6"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "317.12"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "398.6"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "317.395"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "398.6"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "398.6"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "317.505"
         }
       ]
     },
@@ -1153,8 +1077,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/KLACx.png",
       "assetName": "KLA Corporation xStock",
       "assetClass": "equities",
-      "price": "1799.96",
-      "priceChangePct24h": "0",
+      "price": "133.587",
+      "priceChangePct24h": "-0.670400999602465985",
       "marketCap": "244167655977.99002",
       "supportedNetworks": [
         {
@@ -1190,20 +1114,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "1799.96"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "133.592"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "1799.96"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "133.75"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "1799.96"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "1799.96"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "133.64"
         }
       ]
     },
@@ -1213,8 +1133,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/GEVx.png",
       "assetName": "GE Vernova Inc. xStock",
       "assetClass": "equities",
-      "price": "1047.96",
-      "priceChangePct24h": "0",
+      "price": "717.905",
+      "priceChangePct24h": "0.131921517167247168",
       "marketCap": "279509102799.25",
       "supportedNetworks": [
         {
@@ -1250,20 +1170,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "1047.96"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "716.83"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "1047.96"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "717.21"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "1047.96"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "1047.96"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "718.265"
         }
       ]
     },
@@ -1273,8 +1189,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/CEGx.png",
       "assetName": "Constellation Energy Corporation xStock",
       "assetClass": "equities",
-      "price": "267.3899",
-      "priceChangePct24h": "0",
+      "price": "237.61",
+      "priceChangePct24h": "-2.933802223857411495",
       "marketCap": "110003531259.36",
       "supportedNetworks": [
         {
@@ -1310,20 +1226,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "267.3899"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "237.06"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "267.3899"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "237.325"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "267.3899"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "267.3899"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "237.445"
         }
       ]
     },
@@ -1333,8 +1245,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/SMCIx.png",
       "assetName": "Super Micro Computer, Inc. xStock",
       "assetClass": "equities",
-      "price": "30.9578",
-      "priceChangePct24h": "0",
+      "price": "23.1615",
+      "priceChangePct24h": "1.528359243402582819",
       "marketCap": "21239046642.239998",
       "supportedNetworks": [
         {
@@ -1370,20 +1282,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "30.9578"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "23.1255"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "30.9578"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "23.143"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "30.9578"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "30.9578"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "23.155"
         }
       ]
     },
@@ -1393,8 +1301,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/DELLx.png",
       "assetName": "Dell Technologies Inc. xStock",
       "assetClass": "equities",
-      "price": "240.1",
-      "priceChangePct24h": "0",
+      "price": "293.57",
+      "priceChangePct24h": "-1.038220001350530083",
       "marketCap": "169348154011.19998",
       "supportedNetworks": [
         {
@@ -1430,20 +1338,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "240.1"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "294.24"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "240.1"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "293.27"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "240.1"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "240.1"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "293.48"
         }
       ]
     },
@@ -1453,8 +1357,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/VRTx.png",
       "assetName": "Vertiv Holdings Co xStock",
       "assetClass": "equities",
-      "price": "368.61",
-      "priceChangePct24h": "0",
+      "price": "175.215",
+      "priceChangePct24h": "0.873153137593552101",
       "marketCap": "130585474175.52",
       "supportedNetworks": [
         {
@@ -1490,20 +1394,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "368.61"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "174.885"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "368.61"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "174.985"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "368.61"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "368.61"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "175.145"
         }
       ]
     },
@@ -1513,8 +1413,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/AMATx.png",
       "assetName": "Applied Materials, Inc. xStock",
       "assetClass": "equities",
-      "price": "432.79",
-      "priceChangePct24h": "0",
+      "price": "306.97",
+      "priceChangePct24h": "-5.677754071436246143",
       "marketCap": "345569480486.48",
       "supportedNetworks": [
         {
@@ -1550,20 +1450,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "432.79"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "306.82"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "432.79"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "307.335"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "432.79"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "432.79"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "307.295"
         }
       ]
     },
@@ -1573,8 +1469,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/LRCXx.png",
       "assetName": "Lam Research Corporation xStock",
       "assetClass": "equities",
-      "price": "282.97",
-      "priceChangePct24h": "0",
+      "price": "183.642",
+      "priceChangePct24h": "-6.55964164732530561",
       "marketCap": "367730402550",
       "supportedNetworks": [
         {
@@ -1610,20 +1506,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "282.97"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "183.895"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "282.97"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "184.189"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "282.97"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "282.97"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "184.12"
         }
       ]
     },
@@ -1633,8 +1525,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/ANETx.png",
       "assetName": "Arista Networks, Inc. xStock",
       "assetClass": "equities",
-      "price": "141.52",
-      "priceChangePct24h": "0",
+      "price": "163.775",
+      "priceChangePct24h": "-2.51463912864644253",
       "marketCap": "178512451225.26",
       "supportedNetworks": [
         {
@@ -1670,20 +1562,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "141.52"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "163.33"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "141.52"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "163.5965"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "141.52"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "141.52"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "163.805"
         }
       ]
     },
@@ -1693,8 +1581,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/USARx.png",
       "assetName": "USA Rare Earth Inc. xStock",
       "assetClass": "equities",
-      "price": "24.3",
-      "priceChangePct24h": "0",
+      "price": "6.605",
+      "priceChangePct24h": "-1.54911283233102759",
       "marketCap": "5876891991.68",
       "supportedNetworks": [
         {
@@ -1730,20 +1618,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "24.3"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "6.586"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "24.3"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "6.5875"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "24.3"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "24.3"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "6.605"
         }
       ]
     },
@@ -1753,8 +1637,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/UUUUx.png",
       "assetName": "Energy Fuels Inc. xStock",
       "assetClass": "equities",
-      "price": "18.5",
-      "priceChangePct24h": "0",
+      "price": "5.225",
+      "priceChangePct24h": "1.99054197317136407",
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -1790,20 +1674,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "18.5"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "5.215"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "18.5"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "5.215"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "18.5"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "18.5"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "5.215"
         }
       ]
     },
@@ -1813,8 +1693,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/PPLTx.png",
       "assetName": "abrdn Physical Platinum Shares xStock",
       "assetClass": "equities",
-      "price": "179.03",
-      "priceChangePct24h": "0",
+      "price": "11.515",
+      "priceChangePct24h": "-0.368840174391961023",
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -1855,20 +1735,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "179.03"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "11.495"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "179.03"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "11.515"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "179.03"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "179.03"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "11.525"
         }
       ]
     },
@@ -1878,8 +1754,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/PALLx.png",
       "assetName": "abrdn Physical Palladium Shares xStock",
       "assetClass": "equities",
-      "price": "128.77",
-      "priceChangePct24h": "0",
+      "price": "15.615",
+      "priceChangePct24h": "0.752799703784351084",
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -1920,20 +1796,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "128.77"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "15.615"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "128.77"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "15.6235"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "128.77"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "128.77"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "15.615"
         }
       ]
     },
@@ -1943,8 +1815,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/COPXx.png",
       "assetName": "Global X Copper Miners xStock",
       "assetClass": "equities",
-      "price": "83.05",
-      "priceChangePct24h": "0",
+      "price": "58.48",
+      "priceChangePct24h": "1.483859770912877473",
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -1985,20 +1857,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "83.05"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "58.424"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "83.05"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "58.51"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "83.05"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "83.05"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "58.52"
         }
       ]
     },
@@ -2008,8 +1876,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/SLMTx.png",
       "assetName": "Brera xStock",
       "assetClass": "equities",
-      "price": "5.61",
-      "priceChangePct24h": "0",
+      "price": "2.995",
+      "priceChangePct24h": null,
       "marketCap": "52919827.933",
       "supportedNetworks": [
         {
@@ -2050,20 +1918,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "5.61"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "2.995"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "5.61"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "2.995"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "5.61"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "5.61"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "2.995"
         }
       ]
     },
@@ -2073,8 +1937,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/KRAQx.png",
       "assetName": "KRAQ xStock",
       "assetClass": "equities",
-      "price": "9.9262",
-      "priceChangePct24h": "0",
+      "price": "10.03",
+      "priceChangePct24h": null,
       "marketCap": "426506250",
       "supportedNetworks": [
         {
@@ -2115,20 +1979,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "9.9262"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "10.03"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "9.9262"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "10.03"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "9.9262"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "9.9262"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "10.03"
         }
       ]
     },
@@ -2138,8 +1998,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/BTGOx.png",
       "assetName": "Bitgo xStock",
       "assetClass": "equities",
-      "price": "8.9697",
-      "priceChangePct24h": "0",
+      "price": "4.01",
+      "priceChangePct24h": "2.918249969314015458",
       "marketCap": "1451419750.05",
       "supportedNetworks": [
         {
@@ -2180,20 +2040,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "8.9697"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "4"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "8.9697"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "4.02"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "8.9697"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "8.9697"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "4.02"
         }
       ]
     },
@@ -2203,8 +2059,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/SLVx.png",
       "assetName": "iShares Silver Trust xStock",
       "assetClass": "equities",
-      "price": "69.04",
-      "priceChangePct24h": "0",
+      "price": "36.8301",
+      "priceChangePct24h": "-7.382306163939591",
       "marketCap": "29269709856",
       "supportedNetworks": [
         {
@@ -2245,20 +2101,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "69.04"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "36.7707"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "69.04"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "36.84"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "69.04"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "69.04"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "36.78"
         }
       ]
     },
@@ -2268,8 +2120,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/STRKx.png",
       "assetName": "Strategy PP Fixed xStock",
       "assetClass": "equities",
-      "price": "74.87",
-      "priceChangePct24h": "0",
+      "price": "59.41",
+      "priceChangePct24h": null,
       "marketCap": "66516823959",
       "supportedNetworks": [
         {
@@ -2320,20 +2172,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "74.87"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "59.41"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "74.87"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "59.41"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "74.87"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "74.87"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "59.41"
         }
       ]
     },
@@ -2343,8 +2191,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/STRCx.png",
       "assetName": "Strategy PP Variable xStock",
       "assetClass": "equities",
-      "price": "99.24",
-      "priceChangePct24h": "0",
+      "price": "98.18",
+      "priceChangePct24h": "0.17867668504921405",
       "marketCap": "66516823959",
       "supportedNetworks": [
         {
@@ -2395,20 +2243,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "99.24"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "98.09"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "99.24"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "98.1"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "99.24"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "99.24"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "98.18"
         }
       ]
     },
@@ -2418,8 +2262,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/VTx.png",
       "assetName": "Vanguard Total World xStock",
       "assetClass": "equities",
-      "price": "153.52",
-      "priceChangePct24h": "0",
+      "price": "147.465",
+      "priceChangePct24h": null,
       "marketCap": "153319610147",
       "supportedNetworks": [
         {
@@ -2470,20 +2314,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "153.52"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "147.405"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "153.52"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "147.69"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "153.52"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "153.52"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "147.55"
         }
       ]
     },
@@ -2493,8 +2333,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/SCHFx.png",
       "assetName": "Schwab International Equity xStock",
       "assetClass": "equities",
-      "price": "26.7",
-      "priceChangePct24h": "0",
+      "price": "25.53",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -2545,20 +2385,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "26.7"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "25.52"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "26.7"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "25.549"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "26.7"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "26.7"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "25.53"
         }
       ]
     },
@@ -2568,8 +2404,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/IEMGx.png",
       "assetName": "Core MSCI Emerging Markets xStock",
       "assetClass": "equities",
-      "price": "79.49",
-      "priceChangePct24h": "0",
+      "price": "68.665",
+      "priceChangePct24h": "-0.509607335262231849",
       "marketCap": "503495983",
       "supportedNetworks": [
         {
@@ -2620,20 +2456,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "79.49"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "68.625"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "79.49"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "68.7101"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "79.49"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "79.49"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "68.65"
         }
       ]
     },
@@ -2643,8 +2475,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/IJRx.png",
       "assetName": "S&P Small Cap xStock",
       "assetClass": "equities",
-      "price": "133.93",
-      "priceChangePct24h": "0",
+      "price": "136.6",
+      "priceChangePct24h": null,
       "marketCap": "78396017123",
       "supportedNetworks": [
         {
@@ -2695,20 +2527,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "133.93"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "136.56"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "133.93"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "136.68"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "133.93"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "133.93"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "136.58"
         }
       ]
     },
@@ -2718,8 +2546,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/IWMx.png",
       "assetName": "Russell 2000 xStock",
       "assetClass": "equities",
-      "price": "277.6",
-      "priceChangePct24h": "0",
+      "price": "269.22",
+      "priceChangePct24h": "0.654736181954469083",
       "marketCap": "79823356771",
       "supportedNetworks": [
         {
@@ -2770,20 +2598,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "277.6"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "269.09"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "277.6"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "269.41"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "277.6"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "277.6"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "269.19"
         }
       ]
     },
@@ -2793,8 +2617,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/TMUSx.png",
       "assetName": "T-Mobile xStock",
       "assetClass": "equities",
-      "price": "185.8",
-      "priceChangePct24h": "0",
+      "price": "167.57",
+      "priceChangePct24h": "0.001212119467236768",
       "marketCap": "209547299352.71",
       "supportedNetworks": [
         {
@@ -2840,20 +2664,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "185.8"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "167.42"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "185.8"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "167.62"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "185.8"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "185.8"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "167.62"
         }
       ]
     },
@@ -2863,8 +2683,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/BTBTx.png",
       "assetName": "Bit Digital xStock",
       "assetClass": "equities",
-      "price": "1.7897",
-      "priceChangePct24h": "0",
+      "price": "0.4872",
+      "priceChangePct24h": null,
       "marketCap": "587838994.2",
       "supportedNetworks": [
         {
@@ -2915,20 +2735,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "1.7897"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "0.4865"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "1.7897"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "0.4915"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "1.7897"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "1.7897"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "0.4922"
         }
       ]
     },
@@ -2938,8 +2754,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/HUTx.png",
       "assetName": "Hut 8 xStock",
       "assetClass": "equities",
-      "price": "102",
-      "priceChangePct24h": "0",
+      "price": "49.63",
+      "priceChangePct24h": "2.322713257965056526",
       "marketCap": "11086016267.519999",
       "supportedNetworks": [
         {
@@ -2985,20 +2801,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "102"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "49.66"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "102"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "49.89"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "102"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "102"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "49.95"
         }
       ]
     },
@@ -3008,8 +2820,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/CORZx.png",
       "assetName": "Core Scientific xStock",
       "assetClass": "equities",
-      "price": "24",
-      "priceChangePct24h": "0",
+      "price": "11.06",
+      "priceChangePct24h": "1.265032520688973966",
       "marketCap": "7285930892.64",
       "supportedNetworks": [
         {
@@ -3055,20 +2867,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "24"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "11.05"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "24"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "11.13"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "24"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "24"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "11.075"
         }
       ]
     },
@@ -3078,8 +2886,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/PLx.png",
       "assetName": "Planet Labs xStock",
       "assetClass": "equities",
-      "price": "41.59",
-      "priceChangePct24h": "0",
+      "price": "10.81",
+      "priceChangePct24h": "-0.478365254933018405",
       "marketCap": "13913590371.84",
       "supportedNetworks": [
         {
@@ -3125,20 +2933,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "41.59"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "10.805"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "41.59"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "10.85"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "41.59"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "41.59"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "10.815"
         }
       ]
     },
@@ -3148,8 +2952,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/SPCEx.png",
       "assetName": "Virgin Galactic xStock",
       "assetClass": "equities",
-      "price": "2.8197",
-      "priceChangePct24h": "0",
+      "price": "1.105",
+      "priceChangePct24h": null,
       "marketCap": "277583633.88",
       "supportedNetworks": [
         {
@@ -3195,20 +2999,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "2.8197"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "1.105"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "2.8197"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "1.11"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "2.8197"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "2.8197"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "1.11"
         }
       ]
     },
@@ -3218,8 +3018,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/WBDx.png",
       "assetName": "Warner Bros. Discovery xStock",
       "assetClass": "equities",
-      "price": "27.013",
-      "priceChangePct24h": "0",
+      "price": "1175.0556265504674",
+      "priceChangePct24h": null,
       "marketCap": "67968475991.22",
       "supportedNetworks": [
         {
@@ -3265,20 +3065,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "27.013"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "1175.0556265504674"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "27.013"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "1175.0556265504674"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "27.013"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "27.013"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "1175.0556265504674"
         }
       ]
     },
@@ -3288,8 +3084,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/MUx.png",
       "assetName": "Micron Technology xStock",
       "assetClass": "equities",
-      "price": "715.89",
-      "priceChangePct24h": "0",
+      "price": "595.06",
+      "priceChangePct24h": "-7.195491590780076",
       "marketCap": "842203066627.3099",
       "supportedNetworks": [
         {
@@ -3335,20 +3131,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "715.89"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "594.5"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "715.89"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "594.95"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "715.89"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "715.89"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "593.49"
         }
       ]
     },
@@ -3358,8 +3150,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/RBLXx.png",
       "assetName": "Roblox xStock",
       "assetClass": "equities",
-      "price": "42.76",
-      "priceChangePct24h": "0",
+      "price": "54.52",
+      "priceChangePct24h": null,
       "marketCap": "30006669202.949997",
       "supportedNetworks": [
         {
@@ -3405,20 +3197,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "42.76"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "54.42"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "42.76"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "54.41"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "42.76"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "42.76"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "54.46"
         }
       ]
     },
@@ -3428,8 +3216,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/PANWx.png",
       "assetName": "Palo Alto Networks xStock",
       "assetClass": "equities",
-      "price": "241.61",
-      "priceChangePct24h": "0",
+      "price": "354.01",
+      "priceChangePct24h": "-89.27734876448716",
       "marketCap": "168590680000",
       "supportedNetworks": [
         {
@@ -3475,20 +3263,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "241.61"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "353.08"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "241.61"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "354.29"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "241.61"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "241.61"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "354.46"
         }
       ]
     },
@@ -3498,8 +3282,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/ASMLx.png",
       "assetName": "ASML xStock",
       "assetClass": "equities",
-      "price": "1498",
-      "priceChangePct24h": "0",
+      "price": "1301.58",
+      "priceChangePct24h": "-2.787616258294242227",
       "marketCap": "613592631033.3",
       "supportedNetworks": [
         {
@@ -3545,20 +3329,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "1498"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "1299.61"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "1498"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "1302.07"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "1498"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "1498"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "1301.065"
         }
       ]
     },
@@ -3568,8 +3348,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/AMDx.png",
       "assetName": "AMD xStock",
       "assetClass": "equities",
-      "price": "420.28",
-      "priceChangePct24h": "0",
+      "price": "405.245",
+      "priceChangePct24h": "-2.0208300993520134",
       "marketCap": "742233104866.41",
       "supportedNetworks": [
         {
@@ -3620,20 +3400,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "420.28"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "403.89"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "420.28"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "405.36"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "420.28"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "420.28"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "404.92"
         }
       ]
     },
@@ -3643,8 +3419,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/TSMx.png",
       "assetName": "TSMC xStock",
       "assetClass": "equities",
-      "price": "402.8957",
-      "priceChangePct24h": "0",
+      "price": "341.03",
+      "priceChangePct24h": "-2.8213200868812",
       "marketCap": "2135137152000",
       "supportedNetworks": [
         {
@@ -3690,20 +3466,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "402.8957"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "340.61"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "402.8957"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "341.21"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "402.8957"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "402.8957"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "340.83"
         }
       ]
     },
@@ -3713,8 +3485,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/ASTSx.png",
       "assetName": "AST SpaceMobile xStock",
       "assetClass": "equities",
-      "price": "82.65",
-      "priceChangePct24h": "0",
+      "price": "26.48",
+      "priceChangePct24h": "10.650763758108390877",
       "marketCap": "22415839061.75",
       "supportedNetworks": [
         {
@@ -3760,20 +3532,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "82.65"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "26.4"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "82.65"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "26.57"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "82.65"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "82.65"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "26.47"
         }
       ]
     },
@@ -3783,8 +3551,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/PYPLx.png",
       "assetName": "PayPal xStock",
       "assetClass": "equities",
-      "price": "44.4",
-      "priceChangePct24h": "0",
+      "price": "57.625",
+      "priceChangePct24h": "2.766203436855755375",
       "marketCap": "40021126217.409996",
       "supportedNetworks": [
         {
@@ -3830,20 +3598,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "44.4"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "57.6"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "44.4"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "57.74"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "44.4"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "44.4"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "57.67"
         }
       ]
     },
@@ -3853,8 +3617,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/CLSKx.png",
       "assetName": "CleanSpark xStock",
       "assetClass": "equities",
-      "price": "13.03",
-      "priceChangePct24h": "0",
+      "price": "5.145",
+      "priceChangePct24h": null,
       "marketCap": "3631691364.6",
       "supportedNetworks": [
         {
@@ -3900,20 +3664,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "13.03"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "5.125"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "13.03"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "5.175"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "13.03"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "13.03"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "5.135"
         }
       ]
     },
@@ -3923,8 +3683,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/SBETx.png",
       "assetName": "SharpLink Gaming xStock",
       "assetClass": "equities",
-      "price": "6.7226",
-      "priceChangePct24h": "0",
+      "price": "4.67",
+      "priceChangePct24h": "0.846662580053623772",
       "marketCap": "1466882475.1200001",
       "supportedNetworks": [
         {
@@ -3970,20 +3730,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "6.7226"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "4.66"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "6.7226"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "4.68"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "6.7226"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "6.7226"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "4.67"
         }
       ]
     },
@@ -3993,8 +3749,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/UBERx.png",
       "assetName": "Uber xStock",
       "assetClass": "equities",
-      "price": "75",
-      "priceChangePct24h": "0",
+      "price": "66.835",
+      "priceChangePct24h": "-1.7251253645887303",
       "marketCap": "153585945530.85",
       "supportedNetworks": [
         {
@@ -4040,20 +3796,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "75"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "66.76"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "75"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "66.8702"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "75"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "75"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "66.805"
         }
       ]
     },
@@ -4063,8 +3815,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/ADBEx.png",
       "assetName": "Adobe xStock",
       "assetClass": "equities",
-      "price": "247.23",
-      "priceChangePct24h": "0",
+      "price": "234.87",
+      "priceChangePct24h": "0.67962835512732278",
       "marketCap": "102278768000",
       "supportedNetworks": [
         {
@@ -4110,20 +3862,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "247.23"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "234.76"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "247.23"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "235.03"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "247.23"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "247.23"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "234.69"
         }
       ]
     },
@@ -4133,8 +3881,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/WULFx.png",
       "assetName": "TeraWulf xStock",
       "assetClass": "equities",
-      "price": "22.16",
-      "priceChangePct24h": "0",
+      "price": "10.195",
+      "priceChangePct24h": "1.891655506081374032",
       "marketCap": "11522729281.84",
       "supportedNetworks": [
         {
@@ -4180,20 +3928,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "22.16"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "10.14"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "22.16"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "10.225"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "22.16"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "22.16"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "10.205"
         }
       ]
     },
@@ -4203,8 +3947,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/RIOTx.png",
       "assetName": "Riot Platforms xStock",
       "assetClass": "equities",
-      "price": "23.25",
-      "priceChangePct24h": "0",
+      "price": "16.895",
+      "priceChangePct24h": "3.146386760649708857",
       "marketCap": "9105881618.4",
       "supportedNetworks": [
         {
@@ -4250,20 +3994,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "23.25"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "16.895"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "23.25"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "16.975"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "23.25"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "23.25"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "16.87"
         }
       ]
     },
@@ -4273,8 +4013,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/MARAx.png",
       "assetName": "MARA xStock",
       "assetClass": "equities",
-      "price": "12.32",
-      "priceChangePct24h": "0",
+      "price": "5.54",
+      "priceChangePct24h": "1.526055873353780403",
       "marketCap": "4932692596.16",
       "supportedNetworks": [
         {
@@ -4320,20 +4060,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "12.32"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "5.525"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "12.32"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "5.57"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "12.32"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "12.32"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "5.55"
         }
       ]
     },
@@ -4343,8 +4079,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/OKLOx.png",
       "assetName": "Oklo xStock",
       "assetClass": "equities",
-      "price": "61.75",
-      "priceChangePct24h": "0",
+      "price": "19.395",
+      "priceChangePct24h": "0.356478611283323001",
       "marketCap": "12610927453.380001",
       "supportedNetworks": [
         {
@@ -4390,20 +4126,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "61.75"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "19.32"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "61.75"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "19.46"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "61.75"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "61.75"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "19.37"
         }
       ]
     },
@@ -4413,8 +4145,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/GLXYx.png",
       "assetName": "Galaxy Digital xStock",
       "assetClass": "equities",
-      "price": "29.44",
-      "priceChangePct24h": "0",
+      "price": "11.695",
+      "priceChangePct24h": "0.207597367725028707",
       "marketCap": "5799649442.16",
       "supportedNetworks": [
         {
@@ -4460,20 +4192,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "29.44"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "11.62"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "29.44"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "11.75"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "29.44"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "29.44"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "11.68"
         }
       ]
     },
@@ -4483,8 +4211,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/TONXx.png",
       "assetName": "TON xStock",
       "assetClass": "equities",
-      "price": "3.56",
-      "priceChangePct24h": "0",
+      "price": "2.37",
+      "priceChangePct24h": null,
       "marketCap": "205771445.88",
       "supportedNetworks": [
         {
@@ -4535,20 +4263,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "3.56"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "2.41"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "3.56"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "2.37"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "3.56"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "3.56"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "2.37"
         }
       ]
     },
@@ -4558,8 +4282,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/BMNRx.png",
       "assetName": "Bitmine xStock",
       "assetClass": "equities",
-      "price": "19.8197",
-      "priceChangePct24h": "0",
+      "price": "13.5107",
+      "priceChangePct24h": "-1.1362644459549975",
       "marketCap": "12627518077.230001",
       "supportedNetworks": [
         {
@@ -4610,20 +4334,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "19.8197"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "13.465"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "19.8197"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "13.535"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "19.8197"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "19.8197"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "13.495"
         }
       ]
     },
@@ -4633,8 +4353,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/MSTRx.png",
       "assetName": "MicroStrategy xStock",
       "assetClass": "equities",
-      "price": "175.9",
-      "priceChangePct24h": "0",
+      "price": "80.68",
+      "priceChangePct24h": "2.702545261583972",
       "marketCap": "65740516308.48",
       "supportedNetworks": [
         {
@@ -4685,20 +4405,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "175.9"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "80.39"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "175.9"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "80.79"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "175.9"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "175.9"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "80.78"
         }
       ]
     },
@@ -4708,8 +4424,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/TBLLx.png",
       "assetName": "TBLL xStock",
       "assetClass": "equities",
-      "price": "105.775",
-      "priceChangePct24h": "0",
+      "price": "105.5482",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -4760,20 +4476,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "105.775"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "105.55"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "105.775"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "105.55"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "105.775"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "105.775"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "105.56"
         }
       ]
     },
@@ -4783,8 +4495,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/OPENx.png",
       "assetName": "OPEN xStock",
       "assetClass": "equities",
-      "price": "4.355",
-      "priceChangePct24h": "0",
+      "price": "1.295",
+      "priceChangePct24h": "6.769035277947959921",
       "marketCap": "4833330526.32",
       "supportedNetworks": [
         {
@@ -4835,20 +4547,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "4.355"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "1.295"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "4.355"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "1.3"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "4.355"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "4.355"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "1.305"
         }
       ]
     },
@@ -4858,8 +4566,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/DFDVx.png",
       "assetName": "DFDV xStock",
       "assetClass": "equities",
-      "price": "4.88",
-      "priceChangePct24h": "0",
+      "price": "2.16",
+      "priceChangePct24h": "0.9121633480010058",
       "marketCap": "131558377.24",
       "supportedNetworks": [
         {
@@ -4910,20 +4618,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "4.88"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "2.16"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "4.88"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "2.16"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "4.88"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "4.88"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "2.16"
         }
       ]
     },
@@ -4933,8 +4637,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/CRCLx.png",
       "assetName": "Circle xStock",
       "assetClass": "equities",
-      "price": "112.04",
-      "priceChangePct24h": "0",
+      "price": "48.14",
+      "priceChangePct24h": "1.3232404892968281",
       "marketCap": "28100408441.4",
       "supportedNetworks": [
         {
@@ -4985,20 +4689,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "112.04"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "48.01"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "112.04"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "48.24"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "112.04"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "112.04"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "48.07"
         }
       ]
     },
@@ -5008,8 +4708,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/AMBRx.png",
       "assetName": "Amber xStock",
       "assetClass": "equities",
-      "price": "1.96",
-      "priceChangePct24h": "0",
+      "price": "0.6449",
+      "priceChangePct24h": "-17.959122817579985",
       "marketCap": "199544630.25",
       "supportedNetworks": [
         {
@@ -5060,20 +4760,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "1.96"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "0.6449"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "1.96"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "0.6449"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "1.96"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "1.96"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "0.6449"
         }
       ]
     },
@@ -5083,8 +4779,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/TQQQx.png",
       "assetName": "TQQQ xStock",
       "assetClass": "equities",
-      "price": "74.46",
-      "priceChangePct24h": "0",
+      "price": "45.13",
+      "priceChangePct24h": "-1.0094362851461327",
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -5135,20 +4831,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "74.46"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "45"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "74.46"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "45.25"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "74.46"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "74.46"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "45.075"
         }
       ]
     },
@@ -5158,8 +4850,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/GLDx.png",
       "assetName": "Gold xStock",
       "assetClass": "equities",
-      "price": "417.29",
-      "priceChangePct24h": "0",
+      "price": "325.4501",
+      "priceChangePct24h": "-0.22907855782141404",
       "marketCap": "156851228027",
       "supportedNetworks": [
         {
@@ -5210,20 +4902,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "417.29"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "325.205"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "417.29"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "325.6154"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "417.29"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "417.29"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "325.17"
         }
       ]
     },
@@ -5233,8 +4921,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/VTIx.png",
       "assetName": "Vanguard xStock",
       "assetClass": "equities",
-      "price": "362.74",
-      "priceChangePct24h": "0",
+      "price": "353.48",
+      "priceChangePct24h": "0.091476546143835229",
       "marketCap": "297001216724",
       "supportedNetworks": [
         {
@@ -5285,20 +4973,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "362.74"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "353.3351"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "362.74"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "353.74"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "362.74"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "362.74"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "353.43"
         }
       ]
     },
@@ -5308,8 +4992,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/QQQx.png",
       "assetName": "Nasdaq xStock",
       "assetClass": "equities",
-      "price": "706.32",
-      "priceChangePct24h": "0",
+      "price": "633.13",
+      "priceChangePct24h": "-0.40393315583156125",
       "marketCap": "277770797749",
       "supportedNetworks": [
         {
@@ -5360,20 +5044,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "706.32"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "632.94"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "706.32"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "633.89"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "706.32"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "706.32"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "632.94"
         }
       ]
     },
@@ -5383,8 +5063,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/SPYx.png",
       "assetName": "SP500 xStock",
       "assetClass": "equities",
-      "price": "739.17",
-      "priceChangePct24h": "0",
+      "price": "716.92",
+      "priceChangePct24h": "0.16470061774907757",
       "marketCap": "665776471450",
       "supportedNetworks": [
         {
@@ -5435,20 +5115,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "739.17"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "716.84"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "739.17"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "717.47"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "739.17"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "739.17"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "716.8"
         }
       ]
     },
@@ -5458,8 +5134,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/COINx.png",
       "assetName": "Coinbase xStock",
       "assetClass": "equities",
-      "price": "194.4805",
-      "priceChangePct24h": "0",
+      "price": "103.905",
+      "priceChangePct24h": "0.855025301399087",
       "marketCap": "52996237866.76",
       "supportedNetworks": [
         {
@@ -5510,20 +5186,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "194.4805"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "103.54"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "194.4805"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "104.08"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "194.4805"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "194.4805"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "103.985"
         }
       ]
     },
@@ -5533,8 +5205,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/GMEx.png",
       "assetName": "Gamestop xStock",
       "assetClass": "equities",
-      "price": "21.64",
-      "priceChangePct24h": "0",
+      "price": "26.78",
+      "priceChangePct24h": "-3.5610879263976236",
       "marketCap": "10886548811.960001",
       "supportedNetworks": [
         {
@@ -5585,20 +5257,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "21.64"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "26.8"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "21.64"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "26.855"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "21.64"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "21.64"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "26.8"
         }
       ]
     },
@@ -5608,8 +5276,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/GSx.png",
       "assetName": "Goldman Sachs xStock",
       "assetClass": "equities",
-      "price": "946.39",
-      "priceChangePct24h": "0",
+      "price": "801.65",
+      "priceChangePct24h": "-24.879605525137773",
       "marketCap": "276268549618.08",
       "supportedNetworks": [
         {
@@ -5660,20 +5328,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "946.39"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "802.16"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "946.39"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "803"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "946.39"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "946.39"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "801.125"
         }
       ]
     },
@@ -5683,8 +5347,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/CRWDx.png",
       "assetName": "CrowdStrike xStock",
       "assetClass": "equities",
-      "price": "591.0001",
-      "priceChangePct24h": "0",
+      "price": "208.06",
+      "priceChangePct24h": "-1.107677680057047778",
       "marketCap": "134336739688.17",
       "supportedNetworks": [
         {
@@ -5735,20 +5399,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "591.0001"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "207.455"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "591.0001"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "207.835"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "591.0001"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "591.0001"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "208.298"
         }
       ]
     },
@@ -5758,8 +5418,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/HOODx.png",
       "assetName": "Robinhood xStock",
       "assetClass": "equities",
-      "price": "76.77",
-      "priceChangePct24h": "0",
+      "price": "65.8095",
+      "priceChangePct24h": "0.877798221404477154",
       "marketCap": "69365904540.71",
       "supportedNetworks": [
         {
@@ -5810,20 +5470,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "76.77"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "65.663"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "76.77"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "65.81"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "76.77"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "76.77"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "65.86"
         }
       ]
     },
@@ -5833,8 +5489,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/MRVLx.png",
       "assetName": "Marvell xStock",
       "assetClass": "equities",
-      "price": "174.75",
-      "priceChangePct24h": "0",
+      "price": "129.597",
+      "priceChangePct24h": "-2.201079774983954393",
       "marketCap": "148771581221.85",
       "supportedNetworks": [
         {
@@ -5885,20 +5541,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "174.75"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "129.484"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "174.75"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "129.62"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "174.75"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "174.75"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "129.785"
         }
       ]
     },
@@ -5908,8 +5560,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/APPx.png",
       "assetName": "AppLovin xStock",
       "assetClass": "equities",
-      "price": "498.27",
-      "priceChangePct24h": "0",
+      "price": "381.2315",
+      "priceChangePct24h": "-0.890071327818476849",
       "marketCap": "157404462564.55002",
       "supportedNetworks": [
         {
@@ -5960,20 +5612,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "498.27"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "381.015"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "498.27"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "381.224"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "498.27"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "498.27"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "381.295"
         }
       ]
     },
@@ -5983,8 +5631,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/PLTRx.png",
       "assetName": "Palantir xStock",
       "assetClass": "equities",
-      "price": "133.06",
-      "priceChangePct24h": "0",
+      "price": "164.2135",
+      "priceChangePct24h": "1.608413238478193628",
       "marketCap": "330349590430.60004",
       "supportedNetworks": [
         {
@@ -6035,20 +5683,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "133.06"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "163.955"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "133.06"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "164.225"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "133.06"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "133.06"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "164.44"
         }
       ]
     },
@@ -6058,8 +5702,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/ACNx.png",
       "assetName": "Accenture xStock",
       "assetClass": "equities",
-      "price": "168.8199",
-      "priceChangePct24h": "0",
+      "price": "242.17",
+      "priceChangePct24h": "3.767418352143309757",
       "marketCap": "110766922732.56",
       "supportedNetworks": [
         {
@@ -6110,20 +5754,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "168.8199"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "242.4545"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "168.8199"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "242.43"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "168.8199"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "168.8199"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "242.385"
         }
       ]
     },
@@ -6133,8 +5773,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/INTCx.png",
       "assetName": "Intel xStock",
       "assetClass": "equities",
-      "price": "106.9",
-      "priceChangePct24h": "0",
+      "price": "53.878",
+      "priceChangePct24h": "-2.9128363238840309",
       "marketCap": "627847920000",
       "supportedNetworks": [
         {
@@ -6185,20 +5825,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "106.9"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "53.8735"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "106.9"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "53.9745"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "106.9"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "106.9"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "54.02"
         }
       ]
     },
@@ -6208,8 +5844,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/PMx.png",
       "assetName": "Philip Morris xStock",
       "assetClass": "equities",
-      "price": "189.4845",
-      "priceChangePct24h": "0",
+      "price": "184.795",
+      "priceChangePct24h": null,
       "marketCap": "266497977077.54",
       "supportedNetworks": [
         {
@@ -6260,20 +5896,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "189.4845"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "184.76"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "189.4845"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "184.865"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "189.4845"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "189.4845"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "184.89"
         }
       ]
     },
@@ -6283,8 +5915,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/HONx.png",
       "assetName": "Honeywell xStock",
       "assetClass": "equities",
-      "price": "213.16",
-      "priceChangePct24h": "0",
+      "price": "226.065",
+      "priceChangePct24h": null,
       "marketCap": "135044152721.28",
       "supportedNetworks": [
         {
@@ -6335,20 +5967,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "213.16"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "226.095"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "213.16"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "226.16"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "213.16"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "213.16"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "226.21"
         }
       ]
     },
@@ -6358,8 +5986,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/MDTx.png",
       "assetName": "Medtronic xStock",
       "assetClass": "equities",
-      "price": "76.4",
-      "priceChangePct24h": "0",
+      "price": "96.135",
+      "priceChangePct24h": null,
       "marketCap": "97767840008.6",
       "supportedNetworks": [
         {
@@ -6410,20 +6038,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "76.4"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "96.342"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "76.4"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "96.325"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "76.4"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "76.4"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "96.3225"
         }
       ]
     },
@@ -6433,8 +6057,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/CMCSAx.png",
       "assetName": "Comcast xStock",
       "assetClass": "equities",
-      "price": "24.77",
-      "priceChangePct24h": "0",
+      "price": "25.846",
+      "priceChangePct24h": null,
       "marketCap": "90734605347.79999",
       "supportedNetworks": [
         {
@@ -6485,20 +6109,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "24.77"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "25.835"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "24.77"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "25.885"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "24.77"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "24.77"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "25.875"
         }
       ]
     },
@@ -6508,8 +6128,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/IBMx.png",
       "assetName": "International Business Machines xStock",
       "assetClass": "equities",
-      "price": "219",
-      "priceChangePct24h": "0",
+      "price": "244.7405",
+      "priceChangePct24h": "4.246388545617249755",
       "marketCap": "215948041932.8",
       "supportedNetworks": [
         {
@@ -6560,20 +6180,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "219"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "244.58"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "219"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "244.71"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "219"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "219"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "244.89"
         }
       ]
     },
@@ -6583,8 +6199,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/DHRx.png",
       "assetName": "Danaher xStock",
       "assetClass": "equities",
-      "price": "162",
-      "priceChangePct24h": "0",
+      "price": "228.93",
+      "priceChangePct24h": null,
       "marketCap": "121142020517.31999",
       "supportedNetworks": [
         {
@@ -6635,20 +6251,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "162"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "228.91"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "162"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "228.79"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "162"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "162"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "229.005"
         }
       ]
     },
@@ -6658,8 +6270,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/MCDx.png",
       "assetName": "McDonald's xStock",
       "assetClass": "equities",
-      "price": "276.7988",
-      "priceChangePct24h": "0",
+      "price": "283.975",
+      "priceChangePct24h": "1.240450080487209439",
       "marketCap": "195921990619.25",
       "supportedNetworks": [
         {
@@ -6710,20 +6322,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "276.7988"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "284.045"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "276.7988"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "284.055"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "276.7988"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "276.7988"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "283.915"
         }
       ]
     },
@@ -6733,8 +6341,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/NFLXx.png",
       "assetName": "Netflix xStock",
       "assetClass": "equities",
-      "price": "86.8605",
-      "priceChangePct24h": "0",
+      "price": "59.165",
+      "priceChangePct24h": "0.000214471130488643",
       "marketCap": "368402763214.72",
       "supportedNetworks": [
         {
@@ -6785,20 +6393,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "86.8605"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "59.085"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "86.8605"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "59.1825"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "86.8605"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "86.8605"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "59.225"
         }
       ]
     },
@@ -6808,8 +6412,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/ABTx.png",
       "assetName": "Abbott xStock",
       "assetClass": "equities",
-      "price": "84.5015",
-      "priceChangePct24h": "0",
+      "price": "108.535",
+      "priceChangePct24h": "2.715591667300672656",
       "marketCap": "146869685145.28",
       "supportedNetworks": [
         {
@@ -6860,20 +6464,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "84.5015"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "108.59"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "84.5015"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "108.59"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "84.5015"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "84.5015"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "108.615"
         }
       ]
     },
@@ -6883,8 +6483,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/BACx.png",
       "assetName": "Bank of America xStock",
       "assetClass": "equities",
-      "price": "49.67",
-      "priceChangePct24h": "0",
+      "price": "48.545",
+      "priceChangePct24h": "0.214153148890655772",
       "marketCap": "364126066302.81",
       "supportedNetworks": [
         {
@@ -6935,20 +6535,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "49.67"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "48.528"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "49.67"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "48.565"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "49.67"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "49.67"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "48.575"
         }
       ]
     },
@@ -6958,8 +6554,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/TMOx.png",
       "assetName": "Thermo Fisher xStock",
       "assetClass": "equities",
-      "price": "437",
-      "priceChangePct24h": "0",
+      "price": "686.5",
+      "priceChangePct24h": "-1.595142164805070043",
       "marketCap": "172803981225",
       "supportedNetworks": [
         {
@@ -7010,20 +6606,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "437"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "685.97"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "437"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "685.97"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "437"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "437"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "686.85"
         }
       ]
     },
@@ -7033,8 +6625,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/AZNx.png",
       "assetName": "AstraZeneca xStock",
       "assetClass": "equities",
-      "price": "181.9415",
-      "priceChangePct24h": "0",
+      "price": "184.36",
+      "priceChangePct24h": null,
       "marketCap": "283572571976.55",
       "supportedNetworks": [
         {
@@ -7085,20 +6677,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "181.9415"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "184.44"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "181.9415"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "184.44"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "181.9415"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "181.9415"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "184.46"
         }
       ]
     },
@@ -7108,8 +6696,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/CRMx.png",
       "assetName": "Salesforce xStock",
       "assetClass": "equities",
-      "price": "173.4495",
-      "priceChangePct24h": "0",
+      "price": "198.005",
+      "priceChangePct24h": "2.630390371822483255",
       "marketCap": "148738531734.08",
       "supportedNetworks": [
         {
@@ -7160,20 +6748,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "173.4495"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "197.95"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "173.4495"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "197.95"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "173.4495"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "173.4495"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "198.19"
         }
       ]
     },
@@ -7183,8 +6767,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/LINx.png",
       "assetName": "Linde xStock",
       "assetClass": "equities",
-      "price": "504.79",
-      "priceChangePct24h": "0",
+      "price": "526.8095",
+      "priceChangePct24h": "1.741500968715506395",
       "marketCap": "228011199399.6",
       "supportedNetworks": [
         {
@@ -7235,20 +6819,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "504.79"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "527.06"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "504.79"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "527.06"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "504.79"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "504.79"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "527.0445"
         }
       ]
     },
@@ -7258,8 +6838,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/ORCLx.png",
       "assetName": "Oracle xStock",
       "assetClass": "equities",
-      "price": "191.3501",
-      "priceChangePct24h": "0",
+      "price": "104.53",
+      "priceChangePct24h": "-4.338950386404305013",
       "marketCap": "563561213700",
       "supportedNetworks": [
         {
@@ -7310,20 +6890,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "191.3501"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "104.485"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "191.3501"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "104.485"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "191.3501"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "191.3501"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "104.53"
         }
       ]
     },
@@ -7333,8 +6909,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/NVOx.png",
       "assetName": "Novo Nordisk xStock",
       "assetClass": "equities",
-      "price": "44.47",
-      "priceChangePct24h": "0",
+      "price": "41.032",
+      "priceChangePct24h": "1.505218817323406546",
       "marketCap": "204221446583.54",
       "supportedNetworks": [
         {
@@ -7385,20 +6961,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "44.47"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "41.0175"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "44.47"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "41.0175"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "44.47"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "44.47"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "41.032"
         }
       ]
     },
@@ -7408,8 +6980,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/CSCOx.png",
       "assetName": "Cisco xStock",
       "assetClass": "equities",
-      "price": "117.83",
-      "priceChangePct24h": "0",
+      "price": "94.35",
+      "priceChangePct24h": "0.031120345046785921",
       "marketCap": "381441171065.94",
       "supportedNetworks": [
         {
@@ -7460,20 +7032,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "117.83"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "94.075"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "117.83"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "94.075"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "117.83"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "117.83"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "94.35"
         }
       ]
     },
@@ -7483,8 +7051,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/WMTx.png",
       "assetName": "Walmart xStock",
       "assetClass": "equities",
-      "price": "132",
-      "priceChangePct24h": "0",
+      "price": "131.8205",
+      "priceChangePct24h": "-0.044032550855519231",
       "marketCap": "1039656292871.4501",
       "supportedNetworks": [
         {
@@ -7535,20 +7103,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
-          "price": "132"
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "131.7865"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
-          "price": "132"
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "131.7865"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "132"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "132"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "131.8205"
         }
       ]
     },
@@ -7558,8 +7122,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/KOx.png",
       "assetName": "Coca-Cola xStock",
       "assetClass": "equities",
-      "price": "80.88",
-      "priceChangePct24h": "0",
+      "price": "98.3375",
+      "priceChangePct24h": "0.608290547589338679",
       "marketCap": "337400671219.56",
       "supportedNetworks": [
         {
@@ -7610,20 +7174,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "80.88"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "80.88"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "80.88"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "80.88"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "98.3375"
         }
       ]
     },
@@ -7633,8 +7193,8 @@
       "iconSrc": "https://xstocks-metadata.backed.fi/logos/tokens/PEPx.png",
       "assetName": "PepsiCo xStock",
       "assetClass": "equities",
-      "price": "149.09",
-      "priceChangePct24h": "0",
+      "price": "144.355",
+      "priceChangePct24h": "1.290503576939262169",
       "marketCap": "211329716865.30002",
       "supportedNetworks": [
         {
@@ -7685,20 +7245,16 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "149.09"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "149.09"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "149.09"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
-          "price": "149.09"
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "144.355"
         }
       ]
     },
@@ -7709,7 +7265,7 @@
       "assetName": "AbbVie xStock",
       "assetClass": "equities",
       "price": "209.68",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "-1.755379388448471121",
       "marketCap": "356494057084.35004",
       "supportedNetworks": [
         {
@@ -7760,19 +7316,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "209.68"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "209.68"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "209.68"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "209.68"
         }
       ]
@@ -7784,7 +7336,7 @@
       "assetName": "Merck xStock",
       "assetClass": "equities",
       "price": "111.8",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "-0.7887214595758196",
       "marketCap": "275089043342.7",
       "supportedNetworks": [
         {
@@ -7835,19 +7387,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "111.8"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "111.8"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "111.8"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "111.8"
         }
       ]
@@ -7859,7 +7407,7 @@
       "assetName": "Pfizer xStock",
       "assetClass": "equities",
       "price": "25.34",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "-0.14634877937861034",
       "marketCap": "146361726259.92",
       "supportedNetworks": [
         {
@@ -7910,19 +7458,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "25.34"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "25.34"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "25.34"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "25.34"
         }
       ]
@@ -7934,7 +7478,7 @@
       "assetName": "Chevron xStock",
       "assetClass": "equities",
       "price": "190.81",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "0.656296959517027284",
       "marketCap": "361713980085.84",
       "supportedNetworks": [
         {
@@ -7985,19 +7529,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "190.81"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "190.81"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "190.81"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "190.81"
         }
       ]
@@ -8009,7 +7549,7 @@
       "assetName": "Home Depot xStock",
       "assetClass": "equities",
       "price": "297.9228",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "2.475890809843393722",
       "marketCap": "316188980032.1",
       "supportedNetworks": [
         {
@@ -8060,19 +7600,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "297.9228"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "297.9228"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "297.9228"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "297.9228"
         }
       ]
@@ -8084,7 +7620,7 @@
       "assetName": "Procter & Gamble xStock",
       "assetClass": "equities",
       "price": "141.74",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "1.018147226655734086",
       "marketCap": "340953462358.75995",
       "supportedNetworks": [
         {
@@ -8135,19 +7671,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "141.74"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "141.74"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "141.74"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "141.74"
         }
       ]
@@ -8159,7 +7691,7 @@
       "assetName": "Mastercard xStock",
       "assetClass": "equities",
       "price": "492.85",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "2.285841752989896412",
       "marketCap": "437798128475.4",
       "supportedNetworks": [
         {
@@ -8210,19 +7742,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "492.85"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "492.85"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "492.85"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "492.85"
         }
       ]
@@ -8234,7 +7762,7 @@
       "assetName": "Eli Lilly xStock",
       "assetClass": "equities",
       "price": "1003.5613",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "-1.04741489090754733",
       "marketCap": "845772136520.7001",
       "supportedNetworks": [
         {
@@ -8285,19 +7813,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "1003.5613"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "1003.5613"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "1003.5613"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "1003.5613"
         }
       ]
@@ -8309,7 +7833,7 @@
       "assetName": "Visa xStock",
       "assetClass": "equities",
       "price": "324.62",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "2.360878925276919191",
       "marketCap": "606256906002",
       "supportedNetworks": [
         {
@@ -8360,19 +7884,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "324.62"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "324.62"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "324.62"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "324.62"
         }
       ]
@@ -8384,7 +7904,7 @@
       "assetName": "JPMorgan Chase xStock",
       "assetClass": "equities",
       "price": "297.72",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "0.290074703476159641",
       "marketCap": "809480399377.8",
       "supportedNetworks": [
         {
@@ -8435,19 +7955,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "297.72"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "297.72"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "297.72"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "297.72"
         }
       ]
@@ -8459,7 +7975,7 @@
       "assetName": "Johnson & Johnson xStock",
       "assetClass": "equities",
       "price": "226.73",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "0.059446136001159925",
       "marketCap": "532765260021.72",
       "supportedNetworks": [
         {
@@ -8510,19 +8026,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "226.73"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "226.73"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "226.73"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "226.73"
         }
       ]
@@ -8534,7 +8046,7 @@
       "assetName": "Exxon Mobil xStock",
       "assetClass": "equities",
       "price": "157.8665",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "0.199052997761502075",
       "marketCap": "599235011210.34",
       "supportedNetworks": [
         {
@@ -8585,19 +8097,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "157.8665"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "157.8665"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "157.8665"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "157.8665"
         }
       ]
@@ -8609,7 +8117,7 @@
       "assetName": "UnitedHealth xStock",
       "assetClass": "equities",
       "price": "375.46",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "0.435446183647474531",
       "marketCap": "345076710631.92004",
       "supportedNetworks": [
         {
@@ -8660,19 +8168,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "375.46"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "375.46"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "375.46"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "375.46"
         }
       ]
@@ -8684,7 +8188,7 @@
       "assetName": "Berkshire Hathaway xStock",
       "assetClass": "equities",
       "price": "482.7",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": null,
       "marketCap": "1026532996144.18",
       "supportedNetworks": [
         {
@@ -8735,19 +8239,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "482.7"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "482.7"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "482.7"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "482.7"
         }
       ]
@@ -8759,7 +8259,7 @@
       "assetName": "Tesla xStock",
       "assetClass": "equities",
       "price": "418.57",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "-0.103782908951256219",
       "marketCap": "1608764320142.85",
       "supportedNetworks": [
         {
@@ -8810,19 +8310,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "418.57"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "418.57"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "418.57"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "418.57"
         }
       ]
@@ -8834,7 +8330,7 @@
       "assetName": "Broadcom xStock",
       "assetClass": "equities",
       "price": "423.475",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "-2.263956979892450916",
       "marketCap": "2035907319120",
       "supportedNetworks": [
         {
@@ -8885,19 +8381,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "423.475"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "423.475"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "423.475"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "423.475"
         }
       ]
@@ -8909,7 +8401,7 @@
       "assetName": "Alphabet xStock",
       "assetClass": "equities",
       "price": "395.2823",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "-1.768918300830137036",
       "marketCap": "4855870016923.2",
       "supportedNetworks": [
         {
@@ -8960,19 +8452,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "395.2823"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "395.2823"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "395.2823"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "395.2823"
         }
       ]
@@ -8984,7 +8472,7 @@
       "assetName": "Meta xStock",
       "assetClass": "equities",
       "price": "610.4",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "2.253192430705425021",
       "marketCap": "1547498998817.52",
       "supportedNetworks": [
         {
@@ -9035,19 +8523,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "610.4"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "610.4"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "610.4"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "610.4"
         }
       ]
@@ -9059,7 +8543,7 @@
       "assetName": "Amazon.com xStock",
       "assetClass": "equities",
       "price": "262.59",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "-2.291311078474179336",
       "marketCap": "2933248601008.48",
       "supportedNetworks": [
         {
@@ -9110,19 +8594,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "262.59"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "262.59"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "262.59"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "262.59"
         }
       ]
@@ -9134,7 +8614,7 @@
       "assetName": "Microsoft xStock",
       "assetClass": "equities",
       "price": "419.6743",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "-0.34806540391775943",
       "marketCap": "3083691814324.48",
       "supportedNetworks": [
         {
@@ -9185,19 +8665,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "419.6743"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "419.6743"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "419.6743"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "419.6743"
         }
       ]
@@ -9209,7 +8685,7 @@
       "assetName": "NVIDIA xStock",
       "assetClass": "equities",
       "price": "224.41",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "-2.866519459803932592",
       "marketCap": "5229360000000",
       "supportedNetworks": [
         {
@@ -9260,19 +8736,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "224.41"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "224.41"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "224.41"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "224.41"
         }
       ]
@@ -9284,7 +8756,7 @@
       "assetName": "Apple xStock",
       "assetClass": "equities",
       "price": "299.846",
-      "priceChangePct24h": "0",
+      "priceChangePct24h": "0.654836648814707467",
       "marketCap": "4308095261920",
       "supportedNetworks": [
         {
@@ -9335,19 +8807,15 @@
       ],
       "hourlyPriceHistory": [
         {
-          "at": "2026-05-17T16:07:54.145Z",
+          "at": "2026-11-25T19:37:09.825Z",
           "price": "299.846"
         },
         {
-          "at": "2026-05-17T16:08:57.092Z",
+          "at": "2026-11-25T19:39:32.315Z",
           "price": "299.846"
         },
         {
-          "at": "2026-05-17T16:09:54.909Z",
-          "price": "299.846"
-        },
-        {
-          "at": "2026-05-17T16:10:59.998Z",
+          "at": "2026-11-25T19:40:46.709Z",
           "price": "299.846"
         }
       ]
@@ -9355,5 +8823,5 @@
   ],
   "jupiterSyncedAt": "2026-05-09T18:48:33.090Z",
   "xstocksSyncedAt": "2026-05-09T18:48:36.039Z",
-  "hourlyRollAt": "2026-05-17T16:10:59.998Z"
+  "hourlyRollAt": "2026-11-25T19:40:46.709Z"
 }

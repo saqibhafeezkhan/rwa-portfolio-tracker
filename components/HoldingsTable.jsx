@@ -31,7 +31,20 @@ function formatValue(n) {
   return `$${n.toLocaleString('en-US', { maximumFractionDigits: 2 })}`;
 }
 
-export default function HoldingsTable({ holdings, loading = false }) {
+function emptyMessage(hasWallets) {
+  if (hasWallets) {
+    return 'No matching RWA balances found in tracked wallets.';
+  }
+  return 'No holdings yet. Add an Ethereum or Solana wallet to load on-chain balances.';
+}
+
+export default function HoldingsTable({
+  holdings,
+  loading = false,
+  error = null,
+  onRetry,
+  hasWallets = false,
+}) {
   const [filter, setFilter] = useState('all');
 
   const filtered = filter === 'all'
@@ -53,6 +66,7 @@ export default function HoldingsTable({ holdings, loading = false }) {
           {FILTERS.map(f => (
             <button
               key={f.key}
+              type="button"
               className={`filter-btn ${filter === f.key ? 'active' : ''}`}
               onClick={() => setFilter(f.key)}
             >
@@ -76,16 +90,41 @@ export default function HoldingsTable({ holdings, loading = false }) {
           </tr>
         </thead>
         <tbody>
-          {filtered.length === 0 && !loading && (
+          {error && (
+            <tr>
+              <td colSpan={8} style={{ padding: '20px 16px', textAlign: 'center', color: 'var(--red)' }}>
+                Could not load wallet balances: {error}
+                {onRetry && (
+                  <button
+                    type="button"
+                    className="filter-btn"
+                    style={{ marginLeft: 12 }}
+                    onClick={onRetry}
+                  >
+                    Retry
+                  </button>
+                )}
+              </td>
+            </tr>
+          )}
+          {!error && filtered.length === 0 && !loading && (
             <tr>
               <td colSpan={8} style={{ padding: '32px 16px', textAlign: 'center', color: 'var(--text-dim)' }}>
-                No holdings yet. Add an Ethereum or Solana wallet to load on-chain balances.
+                {emptyMessage(hasWallets)}
               </td>
             </tr>
           )}
           {filtered.map((h, i) => {
-            const chgColor = h.change > 0 ? 'var(--green)' : h.change < 0 ? 'var(--red)' : 'var(--text-dim)';
-            const chgSign  = h.change > 0 ? '+' : '';
+            const hasChange = h.change != null && h.change !== '' && Number.isFinite(Number(h.change));
+            const change = hasChange ? Number(h.change) : null;
+            const chgColor = change == null
+              ? 'var(--text-dim)'
+              : change > 0
+                ? 'var(--green)'
+                : change < 0
+                  ? 'var(--red)'
+                  : 'var(--text-dim)';
+            const chgSign = change != null && change > 0 ? '+' : '';
 
             return (
               <tr key={`${h.contract || h.ticker || h.name}-${i}`}>
@@ -137,7 +176,9 @@ export default function HoldingsTable({ holdings, loading = false }) {
                   </span>
                 </td>
                 <td>{formatPrice(h.price)}</td>
-                <td style={{ color: chgColor }}>{chgSign}{Number(h.change || 0).toFixed(2)}%</td>
+                <td style={{ color: chgColor }}>
+                  {change == null ? '—' : `${chgSign}${change.toFixed(2)}%`}
+                </td>
                 <td>{formatBalance(h.balance)}</td>
                 <td style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: '16px' }}>
                   {formatValue(h.value)}

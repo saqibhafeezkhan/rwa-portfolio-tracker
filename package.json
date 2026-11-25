@@ -2,10 +2,14 @@
   "name": "rwa-portfolio-tracker",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
+    "prebuild": "npm run validate:data",
     "build": "next build",
     "start": "next start",
+    "test": "node --test tests/*.test.js",
+    "validate:data": "node scripts/validate-manifests.mjs",
     "sync:ondo": "node scripts/sync-ondo-assets.mjs",
     "sync:backed": "node scripts/sync-backed-assets.mjs",
     "migrate:hourly": "node scripts/migrate-hourly-history.mjs",
@@ -15,8 +19,8 @@
   },
   "dependencies": {
     "next": "^16.2.6",
-    "react": "^18.3.0",
-    "react-dom": "^18.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "viem": "^2.48.11"
   }
 }

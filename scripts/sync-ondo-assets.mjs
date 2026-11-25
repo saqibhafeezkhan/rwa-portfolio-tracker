@@ -10,6 +10,7 @@
 import { writeFileSync, readFileSync, existsSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
+import { validateManifestAssets } from './lib/validate-manifest.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT = join(__dirname, '..', 'data', 'ondo-assets.json');
@@ -115,6 +116,13 @@ async function main() {
 
   writeFileSync(OUT, JSON.stringify(payload, null, 2) + '\n');
   console.error(`Wrote ${OUT} (${enriched.length} assets).`);
+
+  const errors = validateManifestAssets(enriched, 'ondo-assets.json');
+  if (errors.length > 0) {
+    console.error(`Invalid deployments (${errors.length}):`);
+    for (const error of errors) console.error(`  - ${error}`);
+    process.exitCode = 1;
+  }
 }
 
 main().catch((e) => {

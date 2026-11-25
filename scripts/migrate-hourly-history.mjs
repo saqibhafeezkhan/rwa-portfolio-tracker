@@ -1,27 +1,67 @@
 #!/usr/bin/env node
 /**
- * Adds hourlyPriceHistory: [] to each asset in data/*.json manifests.
+ * Normalizes hourly price history:
+ * - ensures every asset has `hourlyPriceHistory: []`
+ * - drops snapshots older than the 25h rolling window (e.g. seeded data)
+ * - clears `priceChangePct24h` when fewer than 2 fresh snapshots remain
+ *
+ * Run: npm run migrate:hourly
  */
 
-import { readFileSync, writeFileSync } from 'fs';
+import { readFileSync, readdirSync, writeFileSync } from 'fs';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const ROOT = join(__dirname, '..', 'data');
+const DATA_DIR = join(__dirname, '..', 'data');
+const CUTOFF = Date.now() - 25 * 60 * 60 * 1000;
 
-function migrate(name) {
-  const p = join(ROOT, name);
-  const j = JSON.parse(readFileSync(p, 'utf8'));
-  for (const a of j.assets || []) {
-    if (!Array.isArray(a.hourlyPriceHistory)) {
-      a.hourlyPriceHistory = [];
+const files = readdirSync(DATA_DIR).filter(
+  (name) => name.endsWith('.json') && !name.startsWith('.'),
+);
+
+let touchedAssets = 0;
+let clearedChanges = 0;
+
+for (const filename of files) {
+  const full = join(DATA_DIR, filename);
+  const manifest = JSON.parse(readFileSync(full, 'utf8'));
+  if (!Array.isArray(manifest.assets)) continue;
+
+  let changed = false;
+
+  for (const asset of manifest.assets) {
+    const history = Array.isArray(asset.hourlyPriceHistory)
+      ? asset.hourlyPriceHistory
+      : [];
+
+    const fresh = history.filter((snapshot) => {
+      const at = Date.parse(snapshot?.at);
+      return Number.isFinite(at) && at >= CUTOFF;
+    });
+
+    if (fresh.length !== history.length) {
+      asset.hourlyPriceHistory = fresh;
+      changed = true;
+      touchedAssets += 1;
+    } else if (!Array.isArray(asset.hourlyPriceHistory)) {
+      asset.hourlyPriceHistory = [];
+      changed = true;
+    }
+
+    if (fresh.length < 2 && asset.priceChangePct24h != null) {
+      asset.priceChangePct24h = null;
+      changed = true;
+      clearedChanges += 1;
     }
   }
-  writeFileSync(p, JSON.stringify(j, null, 2) + '\n');
-  console.error(`Migrated ${p}`);
+
+  if (changed) {
+    writeFileSync(full, `${JSON.stringify(manifest, null, 2)}\n`);
+    console.error(`Migrated ${filename}`);
+  }
 }
 
-migrate('ondo-assets.json');
-migrate('backed-assets.json');
-migrate('tokenized-gold-assets.json');
+console.error(
+  `Pruned history for ${touchedAssets} assets; cleared ${clearedChanges} stale changes.`,
+);

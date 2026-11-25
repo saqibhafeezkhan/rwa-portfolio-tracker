@@ -8,6 +8,7 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
+import { applyAssetPriceSnapshot } from '../lib/hourly-price-roll.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const MANIFEST_PATH = join(__dirname, '..', 'data', 'circle-usyc-assets.json');
@@ -38,15 +39,15 @@ if (!asset) {
 }
 
 const priceStr = String(stats.latest_price);
-const next = parseFloat(priceStr);
 const now = stats.last_updated ?? new Date().toISOString();
 
+// A single quote is not a 24h change. Append to the hourly roll instead; the
+// per-quote delta is stored only as informational metadata.
 const prev = asset.price != null && asset.price !== '' ? parseFloat(asset.price) : null;
-if (prev != null && Number.isFinite(prev) && prev > 0 && Number.isFinite(next)) {
-  asset.priceChangePct24h = String(((next - prev) / prev) * 100);
+if (prev != null && Number.isFinite(prev) && prev > 0) {
+  asset.lastQuoteChangePct = String(((parseFloat(priceStr) - prev) / prev) * 100);
 }
-
-asset.price = priceStr;
+applyAssetPriceSnapshot(asset, priceStr, { at: now });
 asset.lastStatsAt = now;
 
 manifest.lastUpdatedAt = now;

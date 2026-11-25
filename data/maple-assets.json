@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2026-06-03T06:31:48.350Z",
+  "lastUpdatedAt": "2026-11-25T19:42:35.064Z",
   "networksSyncedAt": "2026-06-01T00:00:00.000Z",
   "assets": [
     {
@@ -8,8 +8,8 @@
       "iconSrc": "https://coin-images.coingecko.com/coins/images/54658/large/syrupUSDC.png",
       "assetName": "Syrup USDC",
       "assetClass": "cash-equivalent",
-      "price": "1.165212",
-      "priceChangePct24h": "0",
+      "price": "1.192533",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -18,8 +18,22 @@
           "decimals": 6
         }
       ],
-      "hourlyPriceHistory": [],
-      "lastUniswapQuoteAt": "2026-06-03T06:31:48.350Z"
+      "hourlyPriceHistory": [
+        {
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "1.192533"
+        },
+        {
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "1.192533"
+        },
+        {
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "1.192533"
+        }
+      ],
+      "lastUniswapQuoteAt": "2026-11-25T19:42:35.064Z",
+      "lastQuoteChangePct": "0"
     },
     {
       "symbol": "syrupUSDT",
@@ -27,8 +41,8 @@
       "iconSrc": "https://coin-images.coingecko.com/coins/images/69514/large/syrupUSDT.png",
       "assetName": "Syrup USDT",
       "assetClass": "cash-equivalent",
-      "price": "1.126674",
-      "priceChangePct24h": "0.00026627116522704895",
+      "price": "1.150914",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -37,9 +51,23 @@
           "decimals": 6
         }
       ],
-      "hourlyPriceHistory": [],
-      "lastUniswapQuoteAt": "2026-06-03T06:31:48.350Z"
+      "hourlyPriceHistory": [
+        {
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "1.150922"
+        },
+        {
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "1.15092"
+        },
+        {
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "1.150915"
+        }
+      ],
+      "lastUniswapQuoteAt": "2026-11-25T19:42:35.064Z",
+      "lastQuoteChangePct": "-0.00008688738959156266"
     }
   ],
-  "uniswapPricesUpdatedAt": "2026-06-03T06:31:48.350Z"
+  "uniswapPricesUpdatedAt": "2026-11-25T19:42:35.064Z"
 }

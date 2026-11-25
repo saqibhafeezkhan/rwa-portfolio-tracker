@@ -3,9 +3,15 @@ import {
   isWalletBalanceChain,
   WALLET_BALANCE_CHAIN_IDS,
 } from '@/lib/wallet-balances';
+import { isValidAddressForChain } from '@/lib/address-validation';
+import { rateLimit } from '@/lib/rate-limit';
 
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
+
+function clientKey(request) {
+  return request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() || 'local';
+}
 
 export async function GET(request, context) {
   const params = await context.params;
@@ -20,6 +26,17 @@ export async function GET(request, context) {
     );
   }
 
+  const limit = rateLimit(`${chain}:${clientKey(request)}`, {
+    limit: 60,
+    windowMs: 60_000,
+  });
+  if (!limit.allowed) {
+    return Response.json(
+      { error: 'Too many requests' },
+      { status: 429, headers: { 'Retry-After': String(limit.retryAfter) } },
+    );
+  }
+
   const { searchParams } = new URL(request.url);
   const address = searchParams.get('address');
   const includeZero = searchParams.get('includeZero') === '1';
@@ -27,6 +44,18 @@ export async function GET(request, context) {
   if (!address) {
     return Response.json(
       { error: 'Missing required `address` query parameter.' },
+      { status: 400 },
+    );
+  }
+
+  if (!isValidAddressForChain(chain, address)) {
+    return Response.json(
+      {
+        error:
+          chain === 'solana'
+            ? 'Invalid Solana address.'
+            : 'Invalid EVM address (0x followed by 40 hex characters).',
+      },
       { status: 400 },
     );
   }

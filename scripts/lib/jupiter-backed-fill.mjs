@@ -23,10 +23,10 @@ export function getChain900Mint(asset) {
   return n?.address ?? null;
 }
 
-/** Match lib/jupiter-price: stockData.price, then usdPrice. Also return mcap from stockData when present. */
+/** Match lib/jupiter-price: stockData.price, then usdPrice. Also return mcap and change when present. */
 export function pickJupiterFields(entry) {
   if (!entry || typeof entry !== 'object') {
-    return { priceStr: null, marketCap: null };
+    return { priceStr: null, marketCap: null, changePct: null };
   }
   const sd = entry.stockData;
   let p = null;
@@ -38,7 +38,11 @@ export function pickJupiterFields(entry) {
   const priceStr = p != null ? String(p) : null;
   const marketCap =
     sd?.mcap != null && Number.isFinite(Number(sd.mcap)) ? String(sd.mcap) : null;
-  return { priceStr, marketCap };
+  const changePct =
+    entry.priceChange24h != null && Number.isFinite(Number(entry.priceChange24h))
+      ? String(entry.priceChange24h)
+      : null;
+  return { priceStr, marketCap, changePct };
 }
 
 async function fetchOneChunk(chunk) {
@@ -53,6 +57,7 @@ async function fetchOneChunk(chunk) {
     }
     const res = await fetch(url, {
       headers: { Accept: 'application/json' },
+      signal: AbortSignal.timeout(15_000),
     });
     if (res.status === 429) {
       lastErr = new Error(`Jupiter price HTTP 429`);
@@ -113,9 +118,9 @@ export async function applyJupiterPricesToBackedPayload(payload) {
       continue;
     }
     const entry = jupiterByMint[mint];
-    const { priceStr, marketCap } = pickJupiterFields(entry);
+    const { priceStr, marketCap, changePct } = pickJupiterFields(entry);
     if (priceStr != null) {
-      applyAssetPriceSnapshot(a, priceStr);
+      applyAssetPriceSnapshot(a, priceStr, { bulkPctFallback: changePct });
       filled += 1;
       if (marketCap != null) {
         a.marketCap = marketCap;

@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2026-06-03T06:31:48.350Z",
+  "lastUpdatedAt": "2026-11-25T19:42:35.064Z",
   "networksSyncedAt": "2026-05-11T00:00:00.000Z",
   "assets": [
     {
@@ -8,8 +8,8 @@
       "iconSrc": "https://assets.coingecko.com/coins/images/9519/standard/paxgold.png",
       "assetName": "Paxos Gold",
       "assetClass": "commodities",
-      "price": "4447.782888",
-      "priceChangePct24h": "0.01896598780833058",
+      "price": "3536.281123",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -18,8 +18,22 @@
           "decimals": 18
         }
       ],
-      "hourlyPriceHistory": [],
-      "lastUniswapQuoteAt": "2026-06-03T06:31:48.350Z"
+      "hourlyPriceHistory": [
+        {
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "3536.725676"
+        },
+        {
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "3539.764423"
+        },
+        {
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "3541.794366"
+        }
+      ],
+      "lastUniswapQuoteAt": "2026-11-25T19:42:35.064Z",
+      "lastQuoteChangePct": "-0.15566242503870634"
     },
     {
       "symbol": "XAUt",
@@ -27,8 +41,8 @@
       "iconSrc": "https://assets.coingecko.com/coins/images/10481/standard/logo.png",
       "assetName": "Tether Gold",
       "assetClass": "commodities",
-      "price": "4431.356816",
-      "priceChangePct24h": "0.016996329125155113",
+      "price": "3536.563428",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -37,9 +51,23 @@
           "decimals": 6
         }
       ],
-      "hourlyPriceHistory": [],
-      "lastUniswapQuoteAt": "2026-06-03T06:31:48.350Z"
+      "hourlyPriceHistory": [
+        {
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "3537.355592"
+        },
+        {
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "3540.1091"
+        },
+        {
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "3541.831344"
+        }
+      ],
+      "lastUniswapQuoteAt": "2026-11-25T19:42:35.064Z",
+      "lastQuoteChangePct": "-0.14873424193177057"
     }
   ],
-  "uniswapPricesUpdatedAt": "2026-06-03T06:31:48.350Z"
+  "uniswapPricesUpdatedAt": "2026-11-25T19:42:35.064Z"
 }

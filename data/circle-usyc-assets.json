@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2026-06-28T02:26:00.524Z",
+  "lastUpdatedAt": "2026-11-25T19:39:00.988Z",
   "networksSyncedAt": "2026-05-17T00:00:00.000Z",
   "assets": [
     {
@@ -9,13 +9,13 @@
       "iconSrc": "https://coin-images.coingecko.com/coins/images/51054/large/Hashnote_SDYC_200x200.png?1730370965",
       "assetName": "Circle USYC",
       "assetClass": "cash-equivalent",
-      "price": "1.129251046084589618",
-      "priceChangePct24h": "0",
+      "price": "1.144875672876728641",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
           "chainId": 1,
-          "address": "0x136471a34f6ef19fe571effc1ca711fdbe8e49f2b",
+          "address": "0x136471a34f6ef19fE571EFFC1CA711fdb8E49f2b",
           "decimals": 6
         },
         {
@@ -24,13 +24,27 @@
           "decimals": 6
         }
       ],
-      "hourlyPriceHistory": [],
-      "lastStatsAt": "2026-06-28T02:26:00.524Z"
+      "hourlyPriceHistory": [
+        {
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "1.144875672876728641"
+        },
+        {
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "1.144875672876728641"
+        },
+        {
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "1.144875672876728641"
+        }
+      ],
+      "lastStatsAt": "2026-11-25T19:39:00.988Z",
+      "lastQuoteChangePct": "0"
     }
   ],
-  "statsLastUpdated": "2026-06-28T02:26:00.524Z",
-  "estimatedYield": "3.1541315699826287",
-  "grossYield": "3.5045906333140318",
-  "totalSupply": "2751811775.824764",
-  "totalAum": "3107486326.478006"
+  "statsLastUpdated": "2026-11-25T19:39:00.988Z",
+  "estimatedYield": "3.786361708725573",
+  "grossYield": "4.207068565250637",
+  "totalSupply": "1849430691.144543",
+  "totalAum": "2117368206.962981"
 }

@@ -10,6 +10,8 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
+import { applyAssetPriceSnapshot } from '../lib/hourly-price-roll.js';
+import { isValidEvmAddress } from '../lib/address-validation.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -55,6 +57,7 @@ function usdPriceFromAggregatedAmount(amountRaw, usdcDecimals = 6) {
 async function fetchQuote(token, config, apiKey) {
   const res = await fetch(UNISWAP_QUOTE_URL, {
     method: 'POST',
+    signal: AbortSignal.timeout(15_000),
     headers: {
       'Content-Type': 'application/json',
       'x-api-key': apiKey,
@@ -99,13 +102,16 @@ async function main() {
       console.warn(`Skip ${token.symbol}: not in tokenized-gold-assets.json`);
       continue;
     }
+    if (!isValidEvmAddress(token.tokenIn) || !isValidEvmAddress(config.tokenOut)) {
+      throw new Error(`Invalid token address for ${sym}`);
+    }
     const priceStr = await fetchQuote(token, config, apiKey);
     const prev = asset.price ? parseFloat(asset.price) : null;
     const next = parseFloat(priceStr);
     if (prev != null && prev > 0 && Number.isFinite(next)) {
-      asset.priceChangePct24h = String(((next - prev) / prev) * 100);
+      asset.lastQuoteChangePct = String(((next - prev) / prev) * 100);
     }
-    asset.price = priceStr;
+    applyAssetPriceSnapshot(asset, priceStr, { at: now });
     asset.lastUniswapQuoteAt = now;
     console.log(`${sym}: $${priceStr}`);
   }

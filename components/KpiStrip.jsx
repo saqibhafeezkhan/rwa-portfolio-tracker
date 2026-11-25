@@ -1,37 +1,59 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
-function useCountUp(target, decimals = 0) {
-  const [value, setValue] = useState(0);
-
-  useEffect(() => {
-    const DUR = 1500, STEP = 16;
-    let interval;
-    const timeout = setTimeout(() => {
-      const inc = target / (DUR / STEP);
-      let cur = 0;
-      interval = setInterval(() => {
-        cur = Math.min(cur + inc, target);
-        setValue(cur);
-        if (cur >= target) clearInterval(interval);
-      }, STEP);
-    }, 600);
-
-    return () => {
-      clearTimeout(timeout);
-      clearInterval(interval);
-    };
-  }, [target]);
-
-  return value.toFixed(decimals).replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+function formatNumber(value, decimals = 0) {
+  if (!Number.isFinite(value)) return '0';
+  const fixed = Math.abs(value).toFixed(decimals);
+  const [whole, fraction] = fixed.split('.');
+  const grouped = whole.replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+  return decimals > 0 ? `${grouped}.${fraction}` : grouped;
 }
 
-export default function KpiStrip({ totalPortfolioValue = 0, change24h = null }) {
+function useCountUp(target, decimals = 0) {
+  const safeTarget = Number.isFinite(target) ? target : 0;
+  const [value, setValue] = useState(safeTarget);
+  const previous = useRef(safeTarget);
+
+  useEffect(() => {
+    const from = previous.current;
+    const to = safeTarget;
+    previous.current = to;
+
+    if (from === to) {
+      setValue(to);
+      return undefined;
+    }
+
+    const duration = 700;
+    const start = performance.now();
+    let frame;
+
+    const tick = (now) => {
+      const t = Math.min(1, (now - start) / duration);
+      const eased = 1 - (1 - t) ** 3;
+      setValue(from + (to - from) * eased);
+      if (t < 1) frame = requestAnimationFrame(tick);
+    };
+
+    frame = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(frame);
+  }, [safeTarget]);
+
+  return formatNumber(value, decimals);
+}
+
+export default function KpiStrip({
+  totalPortfolioValue = 0,
+  change24h = null,
+  walletCount = 0,
+  holdingsCount = 0,
+  chainData = [],
+}) {
   const totalValue = useCountUp(Math.round(totalPortfolioValue), 0);
-  const yieldEarned = useCountUp(0, 0);
-  const chains = useCountUp(6, 0);
-  const apy = useCountUp(0, 2);
+  const wallets = useCountUp(walletCount, 0);
+  const chains = useCountUp(chainData.length, 0);
+  const assets = useCountUp(holdingsCount, 0);
 
   const totalMeta = change24h ? (
     <>
@@ -42,11 +64,20 @@ export default function KpiStrip({ totalPortfolioValue = 0, change24h = null }) 
       &nbsp; {change24h.usd >= 0 ? '+' : '−'}
       ${Math.abs(change24h.usd).toLocaleString('en-US', { maximumFractionDigits: 0 })} (24h)
     </>
+  ) : walletCount === 0 ? (
+    'Add wallets to track RWA holdings'
   ) : totalPortfolioValue > 0 ? (
     'Live wallet balances'
   ) : (
-    'Add wallets to track RWA holdings'
+    'No RWA balances found in tracked wallets'
   );
+
+  const chainNames = chainData.map((c) => c.name).join(' · ');
+  const walletsMeta =
+    walletCount === 0 ? 'No wallets tracked yet' : 'Solana + EVM wallets';
+  const chainsMeta = chainNames || 'No chains with balances';
+  const assetsMeta =
+    holdingsCount === 0 ? 'No matching RWA positions' : 'RWA positions across wallets';
 
   return (
     <div className="kpi-strip">
@@ -57,58 +88,24 @@ export default function KpiStrip({ totalPortfolioValue = 0, change24h = null }) 
           {totalValue}
         </div>
         <div className="kpi-meta">{totalMeta}</div>
-        <svg className="kpi-spark" viewBox="0 0 80 40">
-          <polyline
-            points="0,35 15,30 25,28 35,20 45,18 55,22 65,10 80,8"
-            fill="none"
-            stroke="rgba(74,222,128,0.6)"
-            strokeWidth="1.5"
-          />
-        </svg>
       </div>
 
       <div className="kpi-cell">
-        <div className="kpi-label">Yield Earned (30d)</div>
-        <div className="kpi-value">
-          <span className="currency">$</span>
-          {yieldEarned}
-        </div>
-        <div className="kpi-meta">
-          <span className="up">▲ +0.00%</span>&nbsp; vs prior period
-        </div>
-        <svg className="kpi-spark" viewBox="0 0 80 40">
-          <polyline
-            points="0,38 15,35 25,30 35,28 45,22 55,18 65,12 80,8"
-            fill="none"
-            stroke="rgba(201,168,76,0.6)"
-            strokeWidth="1.5"
-          />
-        </svg>
+        <div className="kpi-label">Tracked Wallets</div>
+        <div className="kpi-value">{wallets}</div>
+        <div className="kpi-meta">{walletsMeta}</div>
       </div>
 
       <div className="kpi-cell">
         <div className="kpi-label">Active Chains</div>
         <div className="kpi-value">{chains}</div>
-        <div className="kpi-meta">ETH · SOL · POLY · ARB · BASE · BNB</div>
+        <div className="kpi-meta">{chainsMeta}</div>
       </div>
 
       <div className="kpi-cell">
-        <div className="kpi-label">Avg. Portfolio APY</div>
-        <div className="kpi-value">
-          {apy}
-          <span style={{ fontSize: '18px', color: 'var(--gold)' }}>%</span>
-        </div>
-        <div className="kpi-meta">
-          <span className="up">▲ +0.00%</span>&nbsp; vs 7-day avg
-        </div>
-        <svg className="kpi-spark" viewBox="0 0 80 40">
-          <polyline
-            points="0,32 20,28 35,20 50,22 65,14 80,10"
-            fill="none"
-            stroke="rgba(45,212,191,0.6)"
-            strokeWidth="1.5"
-          />
-        </svg>
+        <div className="kpi-label">Assets Tracked</div>
+        <div className="kpi-value">{assets}</div>
+        <div className="kpi-meta">{assetsMeta}</div>
       </div>
     </div>
   );

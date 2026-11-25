@@ -1,10 +1,10 @@
 {
-  "lastUpdatedAt": "2026-06-28T02:29:36.493Z",
+  "lastUpdatedAt": "2026-11-25T19:42:35.064Z",
   "networksSyncedAt": "2026-06-01T00:00:00.000Z",
-  "priceUpdateCursor": 2,
+  "priceUpdateCursor": 0,
   "centrifugeApiCallsAt": [
-    "2026-06-28T02:29:36.493Z",
-    "2026-06-28T02:29:36.493Z"
+    "2026-11-25T19:42:35.064Z",
+    "2026-11-25T19:42:35.064Z"
   ],
   "assets": [
     {
@@ -13,8 +13,8 @@
       "iconSrc": "https://coin-images.coingecko.com/coins/images/70445/large/JTRSY.png",
       "assetName": "Janus Henderson Anemoy Treasury Fund",
       "assetClass": "cash-equivalent",
-      "price": "1.107605705687810000",
-      "priceChangePct24h": "0.2200703687642988",
+      "price": "1.123367295015588036",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -23,8 +23,22 @@
           "decimals": 6
         }
       ],
-      "hourlyPriceHistory": [],
-      "lastCentrifugeQuoteAt": "2026-06-28T02:29:36.493Z"
+      "hourlyPriceHistory": [
+        {
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "1.123367295015588036"
+        },
+        {
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "1.123367295015588036"
+        },
+        {
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "1.123367295015588036"
+        }
+      ],
+      "lastCentrifugeQuoteAt": "2026-11-25T19:40:36.548Z",
+      "lastQuoteChangePct": "0"
     },
     {
       "symbol": "JAAA",
@@ -32,8 +46,8 @@
       "iconSrc": "https://coin-images.coingecko.com/coins/images/70446/large/jaaa.png",
       "assetName": "Janus Henderson Anemoy AAA CLO Fund Token",
       "assetClass": "fixed-income",
-      "price": "1.038693162221820000",
-      "priceChangePct24h": "0.2085350579807253",
+      "price": "1.058093674038489180",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -42,8 +56,22 @@
           "decimals": 6
         }
       ],
-      "hourlyPriceHistory": [],
-      "lastCentrifugeQuoteAt": "2026-06-28T02:29:36.493Z"
+      "hourlyPriceHistory": [
+        {
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "1.058093674038489180"
+        },
+        {
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "1.058093674038489180"
+        },
+        {
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "1.058093674038489180"
+        }
+      ],
+      "lastCentrifugeQuoteAt": "2026-11-25T19:42:35.064Z",
+      "lastQuoteChangePct": "0"
     },
     {
       "symbol": "ACRDX",
@@ -51,8 +79,8 @@
       "iconSrc": "https://coin-images.coingecko.com/coins/images/70454/large/acdrx.png",
       "assetName": "Anemoy Tokenized Apollo Diversified Credit Fund Token",
       "assetClass": "fixed-income",
-      "price": "1.016149911125794089",
-      "priceChangePct24h": "0",
+      "price": "1.017609895601983981",
+      "priceChangePct24h": null,
       "marketCap": null,
       "supportedNetworks": [
         {
@@ -61,9 +89,23 @@
           "decimals": 18
         }
       ],
-      "hourlyPriceHistory": [],
-      "lastCentrifugeQuoteAt": "2026-06-03T06:31:48.361Z"
+      "hourlyPriceHistory": [
+        {
+          "at": "2026-11-25T19:37:09.825Z",
+          "price": "1.017609895601983981"
+        },
+        {
+          "at": "2026-11-25T19:39:32.315Z",
+          "price": "1.017609895601983981"
+        },
+        {
+          "at": "2026-11-25T19:40:46.709Z",
+          "price": "1.017609895601983981"
+        }
+      ],
+      "lastCentrifugeQuoteAt": "2026-11-25T19:42:35.064Z",
+      "lastQuoteChangePct": "0"
     }
   ],
-  "centrifugePricesUpdatedAt": "2026-06-28T02:29:36.493Z"
+  "centrifugePricesUpdatedAt": "2026-11-25T19:42:35.064Z"
 }

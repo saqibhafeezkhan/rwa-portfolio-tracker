@@ -12,6 +12,7 @@ import { writeFileSync, readFileSync, existsSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import { applyJupiterPricesToBackedPayload } from './lib/jupiter-backed-fill.mjs';
+import { validateManifestAssets } from './lib/validate-manifest.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT = join(__dirname, '..', 'data', 'backed-assets.json');
@@ -120,6 +121,13 @@ async function main() {
 
   writeFileSync(OUT, JSON.stringify(payload, null, 2) + '\n');
   console.error(`Wrote ${OUT} (${payload.assets.length} assets).`);
+
+  const errors = validateManifestAssets(payload.assets, 'backed-assets.json');
+  if (errors.length > 0) {
+    console.error(`Invalid deployments (${errors.length}):`);
+    for (const error of errors) console.error(`  - ${error}`);
+    process.exitCode = 1;
+  }
 }
 
 main().catch((e) => {

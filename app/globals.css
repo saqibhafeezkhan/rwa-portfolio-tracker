@@ -1039,9 +1039,12 @@ footer {
   flex-direction: column;
   align-items: center;
   gap: 4px;
+  width: 100%;
   padding: 8px 4px;
   border: 1px solid var(--border2);
   background: var(--bg3);
+  color: inherit;
+  font-family: inherit;
   cursor: pointer;
   border-radius: 2px;
   transition: all 0.18s;

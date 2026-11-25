@@ -1,20 +1,11 @@
 import { runUsycStatsUpdate } from '@/lib/usyc-stats-update';
+import { isCronAuthorized } from '@/lib/cron-auth';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
 
-function authorized(request) {
-  if (process.env.NODE_ENV === 'development' && !process.env.CRON_SECRET) {
-    return true;
-  }
-  const secret = process.env.CRON_SECRET;
-  if (!secret) return false;
-  const auth = request.headers.get('authorization');
-  return auth === `Bearer ${secret}`;
-}
-
 async function handle(request) {
-  if (!authorized(request)) {
+  if (!isCronAuthorized(request)) {
     return Response.json({ error: 'Unauthorized' }, { status: 401 });
   }
   try {
